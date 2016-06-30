@@ -1,0 +1,33 @@
+Per il calcolo della risoluzione energetica, abbiamo per prima cosa trovata la relazione tra integrale ed energia, ipotizzandola lineare. 
+Per fare ciò abbiamo calcolato l'energia teorica di ciscun picco, facendo la media delle energie dei decadimenti alfa, pesate sulla loro probabilità. 
+Poi abbiamo calcolato l'integrale relativo a ciascun picco, come centroide del picco nell'istogramma degli integrali, e il suo errore, l'RMS del picco.
+Da questi dati abbiamo proceduto ad un interpolazione dell'integrale in funzione dell'energia, ricavando così la funzione energia:integrale. 
+Usando la funzione, abbiamo riscalato l'asse delle ascisse nell'istogramma degli integrali, in modo che mostrasse l'energia. 
+Da questo nuovo istogramma abbiamo ricavato la risoluzione energetica, misurando l'RMS dei picchi e usandola per la formula
+
+TODO fatemela bene voi la formula qui, non so fare le equazioni
+
+$risoluzione=\frac{2.335\cdot\sigma_E}{E}$
+
+\begin{grafico}
+ \centering
+ \resizebox{\textwidth}{!}{%
+ \input{../grafici/risultati/energy_integral.tex}
+ }%
+ \caption{Grafico Energia:Integrale} 
+ \label{gr:energy_integral.tex} 
+\end{grafico}
+
+TODO fate voi anche qui
+$q=19.6792\pm19.5559$
+$m=1.2469\pm0.00354684$
+
+\begin{grafico}
+ \centering
+ \resizebox{\textwidth}{!}{%
+ \includegraphics{../grafici/risultati/misura600_energy.png}
+ }%
+ \caption{Risoluzioni energetiche, grafico Energia:conteggio} 
+ \label{gr:600_energy.tex} 
+\end{grafico}
+

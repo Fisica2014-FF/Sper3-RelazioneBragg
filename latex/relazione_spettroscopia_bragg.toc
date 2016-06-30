@@ -1,0 +1,9 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {section}{\numberline {I}Schema Circuiti}{2}{section.1}
+\contentsline {section}{\numberline {II}Parte I}{2}{section.2}
+\contentsline {subsection}{\numberline {I}Risoluzione energetica}{2}{subsection.2.1}
+\contentsline {section}{\numberline {III}Parte II}{4}{section.3}
+\contentsline {section}{\numberline {IV}Tabelle}{4}{section.4}
+\contentsline {section}{\numberline {V}Discussioni e conclusioni}{4}{section.5}
+\contentsline {section}{\numberline {VI}Codice}{5}{section.6}
