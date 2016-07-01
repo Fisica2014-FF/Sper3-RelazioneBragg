@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.1)  1 JUL 2016 00:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.3.5)  1 JUL 2016 11:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./relazione_spettroscopia_bragg.tex
 (./relazione_spettroscopia_bragg.tex
-LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -29,7 +29,7 @@ and LuaTeX
 )
 (./preamboli_e_stili/pacchetti.tex
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count87
 )
 (/usr/share/texmf/tex/latex/tex-gyre/tgpagella.sty
@@ -39,7 +39,7 @@ Package: tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
@@ -145,23 +145,25 @@ Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/anonymouspro/AnonymousPro.sty
-Package: AnonymousPro 2014/01/05 v2.0 Support for AnonymousPro Fonts (AE)
+Package: AnonymousPro 2014/03/22 v2.1 Support for AnonymousPro Fonts (AE)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/alegreya/AlegreyaSans.sty
-Package: AlegreyaSans 2014/01/10 (Bob Tennent) Supports AlegreyaSans and Alegre
+Package: AlegreyaSans 2014/05/18 (Bob Tennent) Supports AlegreyaSans and Alegre
 yaSansSC fonts for all LaTeX engines. 
 
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+Package: xkeyval 2014/05/25 v2.7 package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks15
 \XKV@tempa@toks=\toks16
+)
 \XKV@depth=\count88
-File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+File: xkeyval.tex 2014/05/25 v2.7 key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
@@ -172,7 +174,7 @@ LaTeX Font Info:    Try loading font information for OT1+qpl on input line 100.
 File: ot1qpl.fd 2009/09/25 v1.2 font definition file for OT1/qpl
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
-Package: fontaxes 2011/12/16 v1.0c Font selection axes
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
@@ -203,19 +205,19 @@ LaTeX Font Info:    Try loading font information for T1+qpl on input line 100.
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -365,7 +367,7 @@ Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00B8 (decimal 184)
@@ -396,7 +398,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -412,7 +414,7 @@ Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
-File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -553,7 +555,7 @@ LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2004/08/06 v2.20
+Package: amsthm 2009/07/02 v2.20.1
 \thm@style=\toks24
 \thm@bodyfont=\toks25
 \thm@headfont=\toks26
@@ -575,37 +577,38 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2013/12/03 3.9h The Babel package
+Package: babel 2014/09/25 3.9l The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
-Language: italian 2013/11/22 v1.3f Italian support from the babel system
+Language: italian 2014/03/29 v1.3k Italian support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2013/12/03 3.9h Babel common definitions
+File: babel.def 2014/09/25 3.9l Babel common definitions
 \babel@savecnt=\count101
 \U@D=\dimen112
 )
 \it@lettering=\count102
-Package babel Info: Making " an active character on input line 98.
-\Virgola=\count103
+\it@doublequoteactive=\count103
+\it@ISOcompliance=\count104
+\Virgola=\count105
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count104
+\et@xins=\count106
 )
-\etb@tempcnta=\count105
+\etb@tempcnta=\count107
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks30
-\MT@count=\count106
+\MT@count=\count108
 LaTeX Info: Redefining \textls on input line 766.
 \MT@outer@kern=\dimen113
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count107
+\MT@listname@count=\count109
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
@@ -620,7 +623,7 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
@@ -635,16 +638,16 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count108
+\Gread@gobject=\count110
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen116
 \extrarowheight=\dimen117
 \NC@list=\toks31
@@ -656,12 +659,12 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \TX@old@col=\dimen120
 \TX@target=\dimen121
 \TX@delta=\dimen122
-\TX@cols=\count109
+\TX@cols=\count111
 \TX@ftn=\toks32
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
-Package: tabulary 2008/12/01 v0.9 tabulary package (DPC)
-\TY@count=\count110
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+\TY@count=\count112
 \TY@linewidth=\dimen123
 \tymin=\dimen124
 \tymax=\dimen125
@@ -670,70 +673,77 @@ Package: tabulary 2008/12/01 v0.9 tabulary package (DPC)
 (/usr/share/texmf/tex/latex/gnuplot/gnuplot-lua-tikz.sty
 Package: gnuplot-lua-tikz 2012/02/07 (rev. 100) GNUPLOT Lua terminal style
 
-(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks33
-)
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box28
+\pgfutil@tempdima=\dimen127
+\pgfutil@tempdimb=\dimen128
 
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box28
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
 ))
-Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
 
-(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
 
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks34
 \pgfkeys@temptoks=\toks35
 
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
 \pgfkeys@tmptoks=\toks36
 ))
-\pgf@x=\dimen127
-\pgf@y=\dimen128
-\pgf@xa=\dimen129
-\pgf@ya=\dimen130
-\pgf@xb=\dimen131
-\pgf@yb=\dimen132
-\pgf@xc=\dimen133
-\pgf@yc=\dimen134
+\pgf@x=\dimen129
+\pgf@y=\dimen130
+\pgf@xa=\dimen131
+\pgf@ya=\dimen132
+\pgf@xb=\dimen133
+\pgf@yb=\dimen134
+\pgf@xc=\dimen135
+\pgf@yc=\dimen136
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count111
-\c@pgf@countb=\count112
-\c@pgf@countc=\count113
-\c@pgf@countd=\count114
-
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+\c@pgf@counta=\count113
+\c@pgf@countb=\count114
+\c@pgf@countc=\count115
+\c@pgf@countd=\count116
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
-Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+Driver file for pgf: pgfsys-pdftex.def
 
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
 
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count115
-\pgfsyssoftpath@bigbuffer@items=\count116
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count117
+\pgfsyssoftpath@bigbuffer@items=\count118
 )
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
@@ -750,199 +760,232 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
 
-(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen135
-\pgfmath@count=\count117
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen137
+\pgfmath@count=\count119
 \pgfmath@box=\box29
-\pgfmath@toks=\toks37
-\pgfmath@stack@operand=\toks38
-\pgfmath@stack@operation=\toks39
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
 )
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count118
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count120
 ))
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
-\pgf@picminx=\dimen136
-\pgf@picmaxx=\dimen137
-\pgf@picminy=\dimen138
-\pgf@picmaxy=\dimen139
-\pgf@pathminx=\dimen140
-\pgf@pathmaxx=\dimen141
-\pgf@pathminy=\dimen142
-\pgf@pathmaxy=\dimen143
-\pgf@xx=\dimen144
-\pgf@xy=\dimen145
-\pgf@yx=\dimen146
-\pgf@yy=\dimen147
-\pgf@zx=\dimen148
-\pgf@zy=\dimen149
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen138
+\pgf@picmaxx=\dimen139
+\pgf@picminy=\dimen140
+\pgf@picmaxy=\dimen141
+\pgf@pathminx=\dimen142
+\pgf@pathmaxx=\dimen143
+\pgf@pathminy=\dimen144
+\pgf@pathmaxy=\dimen145
+\pgf@xx=\dimen146
+\pgf@xy=\dimen147
+\pgf@yx=\dimen148
+\pgf@yy=\dimen149
+\pgf@zx=\dimen150
+\pgf@zy=\dimen151
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
-\pgf@path@lastx=\dimen150
-\pgf@path@lasty=\dimen151
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen152
+\pgf@path@lasty=\dimen153
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
-\pgf@shorten@end@additional=\dimen152
-\pgf@shorten@start@additional=\dimen153
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen154
+\pgf@shorten@start@additional=\dimen155
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
 \pgfpic=\box30
 \pgf@hbox=\box31
 \pgf@layerbox@main=\box32
-\pgf@picture@serial@count=\count119
+\pgf@picture@serial@count=\count121
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
-\pgflinewidth=\dimen154
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen156
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
-\pgf@pt@x=\dimen155
-\pgf@pt@y=\dimen156
-\pgf@pt@temp=\dimen157
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen157
+\pgf@pt@y=\dimen158
+\pgf@pt@temp=\dimen159
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen160
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
-\pgf@max=\dimen158
-\pgf@sys@shading@range@num=\count120
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen161
+\pgf@sys@shading@range@num=\count122
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
 \pgfexternal@startupbox=\box33
 ))
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
 \pgfnodeparttextbox=\box34
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
 )
-(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen162
+\pgf@nodesepend=\dimen163
 )
-(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen159
-\pgf@nodesepend=\dimen160
-)
-(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
-))
-(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen161
-\pgffor@skip=\dimen162
-\pgffor@stack=\toks40
-\pgffor@toks=\toks41
-))
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
 
-(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count121
-\pgfplotmarksize=\dimen163
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen164
+\pgffor@skip=\dimen165
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count123
+\pgfplotmarksize=\dimen166
 )
-\tikz@lastx=\dimen164
-\tikz@lasty=\dimen165
-\tikz@lastxsaved=\dimen166
-\tikz@lastysaved=\dimen167
-\tikzleveldistance=\dimen168
-\tikzsiblingdistance=\dimen169
+\tikz@lastx=\dimen167
+\tikz@lasty=\dimen168
+\tikz@lastxsaved=\dimen169
+\tikz@lastysaved=\dimen170
+\tikzleveldistance=\dimen171
+\tikzsiblingdistance=\dimen172
 \tikz@figbox=\box35
-\tikz@tempbox=\box36
-\tikztreelevel=\count122
-\tikznumberofchildren=\count123
-\tikznumberofcurrentchild=\count124
-\tikz@fig@count=\count125
+\tikz@figbox@bg=\box36
+\tikz@tempbox=\box37
+\tikz@tempbox@bg=\box38
+\tikztreelevel=\count124
+\tikznumberofchildren=\count125
+\tikznumberofcurrentchild=\count126
+\tikz@fig@count=\count127
 
-(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
-\pgfmatrixcurrentrow=\count126
-\pgfmatrixcurrentcolumn=\count127
-\pgf@matrix@numberofcolumns=\count128
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count128
+\pgfmatrixcurrentcolumn=\count129
+\pgf@matrix@numberofcolumns=\count130
 )
-\tikz@expandcount=\count129
+\tikz@expandcount=\count131
 
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
-hs.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
 )))
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
-s.code.tex
-File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
 
-(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
-\arrowsize=\dimen170
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
+\arrowsize=\dimen173
 ))
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatte
-rns.code.tex
-File: tikzlibrarypatterns.code.tex 2008/01/15 v2.10 (rcs-revision 1.2)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.0 (rcs-revision 1.2)
 
-(/usr/share/texmf/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
-File: pgflibrarypatterns.code.tex 2008/03/03 v2.10 (rcs-revision 1.13)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.cod
+e.tex
+File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.0 (rcs-revision 1.13)
 ))
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotm
-arks.code.tex
-File: tikzlibraryplotmarks.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
 
-(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
-File: pgflibraryplotmarks.code.tex 2010/10/15 v2.10 (rcs-revision 1.12)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.co
+de.tex
+File: pgflibraryplotmarks.code.tex 2013/07/20 v3.0.0 (rcs-revision 1.13)
 ))
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackg
-rounds.code.tex
-File: tikzlibrarybackgrounds.code.tex 2010/02/08 v2.10 (rcs-revision 1.2)
-\pgf@layerbox@background=\box37
-\pgf@layerboxsaved@background=\box38
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.0 (rcs-revision 1.3)
+\pgf@layerbox@background=\box39
+\pgf@layerboxsaved@background=\box40
 )
 (/usr/share/texmf/tex/latex/gnuplot/gnuplot-lua-tikz-common.tex
-\gpvcharsize=\dimen171
-\gphcharsize=\dimen172
-\gpbasems=\dimen173
-\gpbaselw=\dimen174
+\gpvcharsize=\dimen174
+\gphcharsize=\dimen175
+\gpbasems=\dimen176
+\gpbaselw=\dimen177
 ))
 \alphabet=\skip52
 
@@ -957,43 +1000,42 @@ Package ifpdf Info: pdfTeX in PDF mode is detected.
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count130
-\Gm@cntv=\count131
-\c@Gm@tempcnt=\count132
-\Gm@bindingoffset=\dimen175
-\Gm@wd@mp=\dimen176
-\Gm@odd@mp=\dimen177
-\Gm@even@mp=\dimen178
-\Gm@layoutwidth=\dimen179
-\Gm@layoutheight=\dimen180
-\Gm@layouthoffset=\dimen181
-\Gm@layoutvoffset=\dimen182
-\Gm@dimlist=\toks42
+\Gm@cnth=\count132
+\Gm@cntv=\count133
+\c@Gm@tempcnt=\count134
+\Gm@bindingoffset=\dimen178
+\Gm@wd@mp=\dimen179
+\Gm@odd@mp=\dimen180
+\Gm@even@mp=\dimen181
+\Gm@layoutwidth=\dimen182
+\Gm@layoutheight=\dimen183
+\Gm@layouthoffset=\dimen184
+\Gm@layoutvoffset=\dimen185
+\Gm@dimlist=\toks45
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
-\c@tracingmulticols=\count133
-\mult@box=\box39
-\multicol@leftmargin=\dimen183
-\c@unbalance=\count134
-\c@collectmore=\count135
-\doublecol@number=\count136
-\multicoltolerance=\count137
-\multicolpretolerance=\count138
-\full@width=\dimen184
-\page@free=\dimen185
-\premulticols=\dimen186
-\postmulticols=\dimen187
+Package: multicol 2014/10/28 v1.8i multicolumn formatting (FMi)
+\c@tracingmulticols=\count135
+\mult@box=\box41
+\multicol@leftmargin=\dimen186
+\c@unbalance=\count136
+\c@collectmore=\count137
+\doublecol@number=\count138
+\multicoltolerance=\count139
+\multicolpretolerance=\count140
+\full@width=\dimen187
+\page@free=\dimen188
+\premulticols=\dimen189
+\postmulticols=\dimen190
 \multicolsep=\skip53
 \multicolbaselineskip=\skip54
-\partial@page=\box40
-\last@line=\box41
-\mult@rightbox=\box42
-\mult@grightbox=\box43
-\mult@gfirstbox=\box44
-\mult@firstbox=\box45
-\@tempa=\box46
-\@tempa=\box47
+\partial@page=\box42
+\last@line=\box43
+\maxbalancingoverflow=\dimen191
+\mult@rightbox=\box44
+\mult@grightbox=\box45
+\mult@gfirstbox=\box46
+\mult@firstbox=\box47
 \@tempa=\box48
 \@tempa=\box49
 \@tempa=\box50
@@ -1009,14 +1051,16 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \@tempa=\box60
 \@tempa=\box61
 \@tempa=\box62
-\c@columnbadness=\count139
-\c@finalcolumnbadness=\count140
-\last@try=\dimen188
-\multicolovershoot=\dimen189
-\multicolundershoot=\dimen190
-\mult@nat@firstbox=\box63
-\colbreak@box=\box64
-\multicol@sort@counter=\count141
+\@tempa=\box63
+\@tempa=\box64
+\c@columnbadness=\count141
+\c@finalcolumnbadness=\count142
+\last@try=\dimen192
+\multicolovershoot=\dimen193
+\multicolundershoot=\dimen194
+\mult@nat@firstbox=\box65
+\colbreak@box=\box66
+\mc@col@check@num=\count143
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
@@ -1024,43 +1068,43 @@ Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen191
-\captionmargin@=\dimen192
-\captionwidth=\dimen193
-\caption@tempdima=\dimen194
-\caption@indent=\dimen195
-\caption@parindent=\dimen196
-\caption@hangindent=\dimen197
+\captionmargin=\dimen195
+\captionmargin@=\dimen196
+\captionwidth=\dimen197
+\caption@tempdima=\dimen198
+\caption@indent=\dimen199
+\caption@parindent=\dimen200
+\caption@hangindent=\dimen201
 )
-\c@ContinuedFloat=\count142
+\c@ContinuedFloat=\count144
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen198
-\lightrulewidth=\dimen199
-\cmidrulewidth=\dimen200
-\belowrulesep=\dimen201
-\belowbottomsep=\dimen202
-\aboverulesep=\dimen203
-\abovetopsep=\dimen204
-\cmidrulesep=\dimen205
-\cmidrulekern=\dimen206
-\defaultaddspace=\dimen207
-\@cmidla=\count143
-\@cmidlb=\count144
-\@aboverulesep=\dimen208
-\@belowrulesep=\dimen209
-\@thisruleclass=\count145
-\@lastruleclass=\count146
-\@thisrulewidth=\dimen210
+\heavyrulewidth=\dimen202
+\lightrulewidth=\dimen203
+\cmidrulewidth=\dimen204
+\belowrulesep=\dimen205
+\belowbottomsep=\dimen206
+\aboverulesep=\dimen207
+\abovetopsep=\dimen208
+\cmidrulesep=\dimen209
+\cmidrulekern=\dimen210
+\defaultaddspace=\dimen211
+\@cmidla=\count145
+\@cmidlb=\count146
+\@aboverulesep=\dimen212
+\@belowrulesep=\dimen213
+\@thisruleclass=\count147
+\@lastruleclass=\count148
+\@thisrulewidth=\dimen214
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count147
-\float@exts=\toks43
-\float@box=\box65
-\@float@everytoks=\toks44
-\@floatcapt=\box66
+\c@float@type=\count149
+\float@exts=\toks46
+\float@box=\box67
+\@float@everytoks=\toks47
+\@floatcapt=\box68
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
@@ -1091,8 +1135,8 @@ Package tocloft Info: The document has section divisions on input line 44.
 \cftbeforefigskip=\skip78
 \cftfigindent=\skip79
 \cftfignumwidth=\skip80
-\c@lofdepth=\count148
-\c@lotdepth=\count149
+\c@lofdepth=\count150
+\c@lotdepth=\count151
 \cftbeforelottitleskip=\skip81
 \cftafterlottitleskip=\skip82
 \cftbeforetabskip=\skip83
@@ -1106,22 +1150,22 @@ Package: nicefrac 1998/08/04 v0.9b Nice fractions
 \L@UnitsRaiseScriptstyle=\skip88
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count150
-\calc@Bcount=\count151
-\calc@Adimen=\dimen211
-\calc@Bdimen=\dimen212
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count152
+\calc@Bcount=\count153
+\calc@Adimen=\dimen215
+\calc@Bdimen=\dimen216
 \calc@Askip=\skip89
 \calc@Bskip=\skip90
-LaTeX Info: Redefining \setlength on input line 76.
-LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count152
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count154
 \calc@Cskip=\skip91
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
@@ -1133,29 +1177,33 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box67
-\AM@toc@title=\toks45
-\c@AM@survey=\count153
-\AM@templatesizebox=\box68
+\AM@pagebox=\box69
+\AM@toc@title=\toks48
+\c@AM@survey=\count155
+\AM@templatesizebox=\box70
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
-File: lettrine.sty 2013/03/14 v1.64 (Daniel Flipo)
-\c@DefaultLines=\count154
-\DefaultFindent=\dimen213
-\DefaultNindent=\dimen214
-\DefaultSlope=\dimen215
-\L@lbox=\box69
-\L@tbox=\box70
-\c@L@lines=\count155
-\L@Pindent=\dimen216
-\L@Findent=\dimen217
-\L@Nindent=\dimen218
-\L@lraise=\dimen219
-\L@first=\dimen220
-\L@next=\dimen221
-\L@slope=\dimen222
-\L@height=\dimen223
-\LettrineWidth=\dimen224
+File: lettrine.sty 2014/09/16 v1.70 (Daniel Flipo)
+\c@DefaultLines=\count156
+\c@DefaultDepth=\count157
+\DefaultFindent=\dimen217
+\DefaultNindent=\dimen218
+\DefaultSlope=\dimen219
+\L@lbox=\box71
+\L@tbox=\box72
+\c@L@lines=\count158
+\c@L@depth=\count159
+\L@Pindent=\dimen220
+\L@Findent=\dimen221
+\L@Nindent=\dimen222
+\L@lraise=\dimen223
+\L@first=\dimen224
+\L@next=\dimen225
+\L@slope=\dimen226
+\L@height=\dimen227
+\LettrineWidth=\dimen228
+\LettrineHeight=\dimen229
+\LettrineDepth=\dimen230
 
 Loading lettrine.cfg
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
@@ -1165,7 +1213,7 @@ Package: paralist 2013/06/09 v2.4 Extended list environments
 \plpartopsep=\skip93
 \plitemsep=\skip94
 \plparsep=\skip95
-\pl@lab=\toks46
+\pl@lab=\toks49
 )
 (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
@@ -1182,29 +1230,30 @@ Package: abstract 2009/06/08 v1.2a configurable abstracts
 Package: listingsutf8 2011/11/10 v1.2 Allow UTF-8 in listings input (HO)
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count156
-\lst@gtempboxa=\box71
-\lst@token=\toks47
-\lst@length=\count157
-\lst@currlwidth=\dimen225
-\lst@column=\count158
-\lst@pos=\count159
-\lst@lostspace=\dimen226
-\lst@width=\dimen227
-\lst@newlines=\count160
-\lst@lineno=\count161
-\lst@maxwidth=\dimen228
+\lst@mode=\count160
+\lst@gtempboxa=\box73
+\lst@token=\toks50
+\lst@length=\count161
+\lst@currlwidth=\dimen231
+\lst@column=\count162
+\lst@pos=\count163
+\lst@lostspace=\dimen232
+\lst@width=\dimen233
+\lst@newlines=\count164
+\lst@lineno=\count165
+Normal \dimen register pool exhausted, switching to extended pool.
+\lst@maxwidth=\dimen256
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
-\c@lstnumber=\count162
-\lst@skipnumbers=\count163
-\lst@framebox=\box72
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count166
+\lst@skipnumbers=\count167
+\lst@framebox=\box74
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2013/08/26 1.5b listings configuration
+File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
-Package: listings 2013/08/26 1.5b (Carsten Heinz)
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -1223,15 +1272,15 @@ Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box73
+\ttl@box=\box75
 \beforetitleunit=\skip101
 \aftertitleunit=\skip102
-\ttl@plus=\dimen229
-\ttl@minus=\dimen230
-\ttl@toksa=\toks48
-\titlewidth=\dimen231
-\titlewidthlast=\dimen232
-\titlewidthfirst=\dimen233
+\ttl@plus=\dimen257
+\ttl@minus=\dimen258
+\ttl@toksa=\toks51
+\titlewidth=\dimen259
+\titlewidthlast=\dimen260
+\titlewidthfirst=\dimen261
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss
 File: block.tss 2011/12/15
@@ -1289,17 +1338,16 @@ Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-Normal \dimen register pool exhausted, switching to extended pool.
-\@linkdim=\dimen256
-\Hy@linkcounter=\count164
-\Hy@pagecounter=\count165
+\@linkdim=\dimen262
+\Hy@linkcounter=\count168
+\Hy@pagecounter=\count169
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count166
+\Hy@SavedSpaceFactor=\count170
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -1311,17 +1359,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count167
+\c@Hy@tempcnt=\count171
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen257
-\Fld@menulength=\count168
-\Field@Width=\dimen258
-\Fld@charsize=\dimen259
+\XeTeXLinkMargin=\dimen263
+\Fld@menulength=\count172
+\Field@Width=\dimen264
+\Fld@charsize=\dimen265
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -1331,17 +1379,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count169
-\c@Item=\count170
-\c@Hfootnote=\count171
+\Hy@abspage=\count173
+\c@Item=\count174
+\c@Hfootnote=\count175
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count172
-\c@bookmark@seq@number=\count173
+\Fld@listcount=\count176
+\c@bookmark@seq@number=\count177
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
@@ -1357,10 +1405,10 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 Package hyperref Info: Option `unicode' set `false' on input line 161.
 ) (./preamboli_e_stili/titolo_elettronica3.tex)
 (./preamboli_e_stili/stili_float.tex
-\@float@every@tabella=\toks49
-\c@tabella=\count174
-\@float@every@grafico=\toks50
-\c@grafico=\count175
+\@float@every@tabella=\toks52
+\c@tabella=\count178
+\@float@every@grafico=\toks53
+\c@grafico=\count179
 ) (./relazione_spettroscopia_bragg.aux)
 \openout1 = `relazione_spettroscopia_bragg.aux'.
 
@@ -1380,13 +1428,13 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
-\c@mv@tabular=\count176
-\c@mv@boldtabular=\count177
+\c@mv@tabular=\count180
+\c@mv@boldtabular=\count181
 LaTeX Info: Redefining \it@ocap on input line 20.
 LaTeX Info: Redefining \it@ccap on input line 20.
 LaTeX Info: Redefining \microtypecontext on input line 20.
@@ -1408,17 +1456,17 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count178
-\scratchdimen=\dimen260
-\scratchbox=\box74
-\nofMPsegments=\count179
-\nofMParguments=\count180
-\everyMPshowfont=\toks51
-\MPscratchCnt=\count181
-\MPscratchDim=\dimen261
-\MPnumerator=\count182
-\makeMPintoPDFobject=\count183
-\everyMPtoPDFconversion=\toks52
+\scratchcounter=\count182
+\scratchdimen=\dimen266
+\scratchbox=\box76
+\nofMPsegments=\count183
+\nofMParguments=\count184
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count185
+\MPscratchDim=\dimen267
+\MPnumerator=\count186
+\makeMPintoPDFobject=\count187
+\everyMPtoPDFconversion=\toks55
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1475,8 +1523,8 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box75
-\c@lstlisting=\count184
+\AtBeginShipoutBox=\box77
+\c@lstlisting=\count188
 Package hyperref Info: Link coloring OFF on input line 20.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1484,13 +1532,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count185
+\c@section@level=\count189
 )
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
-
-(./relazione_spettroscopia_bragg.out) (./relazione_spettroscopia_bragg.out)
 \@outlinefile=\write4
 \openout4 = `relazione_spettroscopia_bragg.out'.
 
@@ -1531,7 +1577,7 @@ LaTeX Font Info:    Try loading font information for T1+AnonymousPro on input l
 ine 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/anonymouspro/t1anonymouspro.fd
-File: t1anonymouspro.fd 2014/01/05 Fontinst v1.933 font definitions for T1/Anon
+File: t1anonymouspro.fd 2014/03/22 Fontinst v1.933 font definitions for T1/Anon
 ymousPro.
 )
 LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
@@ -1547,15 +1593,13 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Try loading font information for T1+AlegreyaSansSC-LF on in
 put line 48.
  (/usr/share/texlive/texmf-dist/tex/latex/alegreya/T1AlegreyaSansSC-LF.fd
-File: T1AlegreyaSansSC-LF.fd 2014/01/10 (autoinst) Font definitions for T1/Aleg
+File: T1AlegreyaSansSC-LF.fd 2014/05/18 (autoinst) Font definitions for T1/Aleg
 reyaSansSC-LF.
 )
 Package microtype Info: Loading generic settings for font family
 (microtype)             `AlegreyaSansSC-LF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-(./relazione_spettroscopia_bragg.toc)
 \tf@toc=\write5
 \openout5 = `relazione_spettroscopia_bragg.toc'.
 
@@ -1563,24 +1607,94 @@ Package microtype Info: Loading generic settings for font family
 (./sezioni/descrizione_app_strumentale.tex) (./sezioni/parti_esperimento.tex
 (./sezioni/parti_esperimento/parte_1.tex
 LaTeX Font Info:    Try loading font information for T1+AlegreyaSans-LF on inpu
-t line 3.
+t line 1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/alegreya/T1AlegreyaSans-LF.fd
-File: T1AlegreyaSans-LF.fd 2014/01/10 (autoinst) Font definitions for T1/Alegre
+File: T1AlegreyaSans-LF.fd 2014/05/18 (autoinst) Font definitions for T1/Alegre
 yaSans-LF.
 )
 LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 3.
+(Font)              scaled to size 10.95pt on input line 1.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `AlegreyaSans-LF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 3.
+(Font)              scaled to size 10.95pt on input line 1.
 LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 3.
+(Font)              scaled to size 14.4pt on input line 1.
+
+<../grafici/risultati/misura600.png, id=17, 700.6175pt x 475.7775pt>
+File: ../grafici/risultati/misura600.png Graphic file (type png)
+
+<use ../grafici/risultati/misura600.png>
+Package pdftex.def Info: ../grafici/risultati/misura600.png used on input line 
+17.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+Package hyperref Info: bookmark level for unknown grafico defaults to 0 on inpu
+t line 18.
+
+<../grafici/risultati/misura600fondo.png, id=18, 700.6175pt x 475.7775pt>
+File: ../grafici/risultati/misura600fondo.png Graphic file (type png)
+
+<use ../grafici/risultati/misura600fondo.png>
+Package pdftex.def Info: ../grafici/risultati/misura600fondo.png used on input 
+line 30.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+
+<../grafici/risultati/misura600fondo_baseline.png, id=19, 700.6175pt x 475.7775
+pt>
+File: ../grafici/risultati/misura600fondo_baseline.png Graphic file (type png)
+ <use ../grafici/risultati/misura600fondo_baseline.png>
+Package pdftex.def Info: ../grafici/risultati/misura600fondo_baseline.png used 
+on input line 41.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+
+<../grafici/risultati/misura600_integral.png, id=20, 700.6175pt x 475.7775pt>
+File: ../grafici/risultati/misura600_integral.png Graphic file (type png)
+
+<use ../grafici/risultati/misura600_integral.png>
+Package pdftex.def Info: ../grafici/risultati/misura600_integral.png used on in
+put line 55.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+
+<../grafici/risultati/misura600_integral_ev.png, id=21, 700.6175pt x 475.7775pt
+>
+File: ../grafici/risultati/misura600_integral_ev.png Graphic file (type png)
+ <use ../grafici/risultati/misura600_integral_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura600_integral_ev.png used on
+ input line 64.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+
+<../grafici/risultati/misura600_integral_vmax.png, id=22, 700.6175pt x 475.7775
+pt>
+File: ../grafici/risultati/misura600_integral_vmax.png Graphic file (type png)
+ <use ../grafici/risultati/misura600_integral_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura600_integral_vmax.png used 
+on input line 73.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+
+<../grafici/risultati/misura600_vmax.png, id=23, 700.6175pt x 475.7775pt>
+File: ../grafici/risultati/misura600_vmax.png Graphic file (type png)
+
+<use ../grafici/risultati/misura600_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura600_vmax.png used on input 
+line 82.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+
+<../grafici/risultati/misura600_vmax_ev.png, id=24, 700.6175pt x 475.7775pt>
+File: ../grafici/risultati/misura600_vmax_ev.png Graphic file (type png)
+
+<use ../grafici/risultati/misura600_vmax_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura600_vmax_ev.png used on inp
+ut line 91.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
 
 (./sezioni/parti_esperimento/parte_1/risoluzione_energetica.tex
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/qpl/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+ [2]
 (../grafici/risultati/energy_integral.tex
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -1589,62 +1703,2241 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 )
-Package hyperref Info: bookmark level for unknown grafico defaults to 0 on inpu
-t line 17.
-
-<../grafici/risultati/misura600_energy.png, id=52, 700.6175pt x 475.7775pt>
+<../grafici/risultati/misura600_energy.png, id=37, 700.6175pt x 475.7775pt>
 File: ../grafici/risultati/misura600_energy.png Graphic file (type png)
 
 <use ../grafici/risultati/misura600_energy.png>
 Package pdftex.def Info: ../grafici/risultati/misura600_energy.png used on inpu
-t line 25.
+t line 29.
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
-))
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/qpl/m/sc/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
- [2] [3 <../grafici/risultati/misura600_energy.png>] (./sezioni/parti_esperimen
-to/parte_2.tex))
-(./sezioni/pres_dati_tabelle.tex) (./sezioni/conclusioni.tex) [4
+)) [3 <../grafici/risultati/misura600.png>] [4 <../grafici/risultati/misura600f
+ondo.png> <../grafici/risultati/misura600fondo_baseline.png>] [5 <../grafici/ri
+sultati/misura600_integral.png> <../grafici/risultati/misura600_integral_ev.png
+>] [6 <../grafici/risultati/misura600_integral_vmax.png> <../grafici/risultati/
+misura600_vmax.png>] [7 <../grafici/risultati/misura600_vmax_ev.png>] [8 <../gr
+afici/risultati/misura600_energy.png>] (./sezioni/parti_esperimento/parte_2.tex
+
+<../grafici/risultati/misura550.png, id=76, 700.6175pt x 475.7775pt>
+File: ../grafici/risultati/misura550.png Graphic file (type png)
+
+<use ../grafici/risultati/misura550.png>
+Package pdftex.def Info: ../grafici/risultati/misura550.png used on input line 
+11.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+
+<../grafici/risultati/misura550_integral.png, id=77, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura550_integral.png Graphic file (type png)
+
+<use ../grafici/risultati/misura550_integral.png>
+Package pdftex.def Info: ../grafici/risultati/misura550_integral.png used on in
+put line 20.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+File: ../grafici/risultati/misura600_integral_ev.png Graphic file (type png)
+
+<use ../grafici/risultati/misura600_integral_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura600_integral_ev.png used on
+ input line 29.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+
+<../grafici/risultati/misura550_integral_vmax.png, id=78, 700.6175pt x 472.7662
+5pt>
+File: ../grafici/risultati/misura550_integral_vmax.png Graphic file (type png)
+ <use ../grafici/risultati/misura550_integral_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura550_integral_vmax.png used 
+on input line 38.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura550_vmax.png, id=79, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura550_vmax.png Graphic file (type png)
+
+<use ../grafici/risultati/misura550_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura550_vmax.png used on input 
+line 47.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura550_vmax_ev.png, id=80, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura550_vmax_ev.png Graphic file (type png)
+
+<use ../grafici/risultati/misura550_vmax_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura550_vmax_ev.png used on inp
+ut line 56.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura500.png, id=81, 700.6175pt x 475.7775pt>
+File: ../grafici/risultati/misura500.png Graphic file (type png)
+
+<use ../grafici/risultati/misura500.png>
+Package pdftex.def Info: ../grafici/risultati/misura500.png used on input line 
+67.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+
+<../grafici/risultati/misura500_integral.png, id=82, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura500_integral.png Graphic file (type png)
+
+<use ../grafici/risultati/misura500_integral.png>
+Package pdftex.def Info: ../grafici/risultati/misura500_integral.png used on in
+put line 76.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura500_integral_ev.png, id=83, 700.6175pt x 472.76625p
+t>
+File: ../grafici/risultati/misura500_integral_ev.png Graphic file (type png)
+ <use ../grafici/risultati/misura500_integral_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura500_integral_ev.png used on
+ input line 85.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura500_integral_vmax.png, id=84, 700.6175pt x 472.7662
+5pt>
+File: ../grafici/risultati/misura500_integral_vmax.png Graphic file (type png)
+ <use ../grafici/risultati/misura500_integral_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura500_integral_vmax.png used 
+on input line 94.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura500_vmax.png, id=85, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura500_vmax.png Graphic file (type png)
+
+<use ../grafici/risultati/misura500_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura500_vmax.png used on input 
+line 103.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura500_vmax_ev.png, id=86, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura500_vmax_ev.png Graphic file (type png)
+
+<use ../grafici/risultati/misura500_vmax_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura500_vmax_ev.png used on inp
+ut line 112.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura450.png, id=87, 700.6175pt x 475.7775pt>
+File: ../grafici/risultati/misura450.png Graphic file (type png)
+
+<use ../grafici/risultati/misura450.png>
+Package pdftex.def Info: ../grafici/risultati/misura450.png used on input line 
+123.
+(pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
+
+<../grafici/risultati/misura450_integral.png, id=88, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura450_integral.png Graphic file (type png)
+
+<use ../grafici/risultati/misura450_integral.png>
+Package pdftex.def Info: ../grafici/risultati/misura450_integral.png used on in
+put line 132.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura450_integral_ev.png, id=89, 700.6175pt x 472.76625p
+t>
+File: ../grafici/risultati/misura450_integral_ev.png Graphic file (type png)
+ <use ../grafici/risultati/misura450_integral_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura450_integral_ev.png used on
+ input line 141.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura450_integral_vmax.png, id=90, 700.6175pt x 472.7662
+5pt>
+File: ../grafici/risultati/misura450_integral_vmax.png Graphic file (type png)
+ <use ../grafici/risultati/misura450_integral_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura450_integral_vmax.png used 
+on input line 150.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura450_vmax.png, id=91, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura450_vmax.png Graphic file (type png)
+
+<use ../grafici/risultati/misura450_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura450_vmax.png used on input 
+line 159.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+<../grafici/risultati/misura450_vmax_ev.png, id=92, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura450_vmax_ev.png Graphic file (type png)
+
+<use ../grafici/risultati/misura450_vmax_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura450_vmax_ev.png used on inp
+ut line 168.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.176  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.176  \centering
+                 
+? 
+<../grafici/risultati/misura400.png, id=93, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura400.png Graphic file (type png)
+
+<use ../grafici/risultati/misura400.png>
+Package pdftex.def Info: ../grafici/risultati/misura400.png used on input line 
+179.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.182 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.182 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.182 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.182 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.182 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.182 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.182 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.182 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.182 \end{grafico}
+                   
+? 
+! Extra \else.
+\end@float ...pdima \penalty \@floatpenalty \else 
+                                                  \vadjust {\penalty -\@Miv ...
+l.182 \end{grafico}
+                   
+? 
+! You can't use `\vadjust' in vertical mode.
+\end@float ...nalty \@floatpenalty \else \vadjust 
+                                                  {\penalty -\@Miv \vbox {}\...
+l.182 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.182 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.182 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.184  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.184  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.184  \centering
+                 
+? 
+
+<../grafici/risultati/misura400_integral.png, id=94, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura400_integral.png Graphic file (type png)
+
+<use ../grafici/risultati/misura400_integral.png>
+Package pdftex.def Info: ../grafici/risultati/misura400_integral.png used on in
+put line 187.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.190 \end{grafico}
+                   
+? 
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \@elt 
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.190 \end{grafico}
+                   
+? 
+
+! LaTeX Error: This may be a LaTeX bug.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...advance \@tempdima \ht \@marbox 
+                                                  \ifdim \@tempdima >\z@ \@l...
+l.190 \end{grafico}
+                   
+? 
+! Bad register code (-13264379).
+\@addmarginpar ...e \space moved}\else \@tempdima 
+                                                  \z@ \fi \global \@mparbott...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.190 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \global 
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...vance \@mparbottom \dp \@marbox 
+                                                  \global \advance \@mparbot...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...dvance \@tempdima -\ht \@marbox 
+                                                  \global \setbox \@marbox \...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \global \setbox \@marbox 
+                                                  \vbox {\vskip \@tempdima \...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...\vskip \@tempdima \box \@marbox 
+                                                  }\global \ht \@marbox \z@ ...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ... \@marbox }\global \ht \@marbox 
+                                                  \z@ \global \dp \@marbox \...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.190 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \global 
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \z@ \global \dp \@marbox 
+                                                  \z@ \kern -\@pagedp \noint...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \kern 
+l.190 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \kern 
+l.190 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...arginparwidth \fi \box \@marbox 
+                                                  \hss }\nointerlineskip \hb...
+l.190 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \hss 
+l.190 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.193  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.193  \centering
+                 
+? 
+
+<../grafici/risultati/misura400_integral_ev.png, id=95, 700.6175pt x 472.76625p
+t>
+File: ../grafici/risultati/misura400_integral_ev.png Graphic file (type png)
+ <use ../grafici/risultati/misura400_integral_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura400_integral_ev.png used on
+ input line 196.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.199 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.199 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.199 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.199 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.199 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.199 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.199 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.199 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.199 \end{grafico}
+                   
+? 
+! Extra \else.
+\end@float ...pdima \penalty \@floatpenalty \else 
+                                                  \vadjust {\penalty -\@Miv ...
+l.199 \end{grafico}
+                   
+? 
+! You can't use `\vadjust' in vertical mode.
+\end@float ...nalty \@floatpenalty \else \vadjust 
+                                                  {\penalty -\@Miv \vbox {}\...
+l.199 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.199 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.199 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.202  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.202  \centering
+                 
+? 
+
+<../grafici/risultati/misura400_integral_vmax.png, id=96, 700.6175pt x 472.7662
+5pt>
+File: ../grafici/risultati/misura400_integral_vmax.png Graphic file (type png)
+ <use ../grafici/risultati/misura400_integral_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura400_integral_vmax.png used 
+on input line 205.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.208 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.208 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.208 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.208 \end{grafico}
+                   
+? 
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \@elt 
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.208 \end{grafico}
+                   
+? 
+
+! LaTeX Error: This may be a LaTeX bug.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...advance \@tempdima \ht \@marbox 
+                                                  \ifdim \@tempdima >\z@ \@l...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.208 \end{grafico}
+                   
+? 
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+! Undefined control sequence.
+\@addmarginpar ...vance \@mparbottom \dp \@marbox 
+                                                  \global \advance \@mparbot...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.208 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...dvance \@tempdima -\ht \@marbox 
+                                                  \global \setbox \@marbox \...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.208 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \global \setbox \@marbox 
+                                                  \vbox {\vskip \@tempdima \...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.208 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...\vskip \@tempdima \box \@marbox 
+                                                  }\global \ht \@marbox \z@ ...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.208 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ... \@marbox }\global \ht \@marbox 
+                                                  \z@ \global \dp \@marbox \...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.208 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \global 
+l.208 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \z@ \global \dp \@marbox 
+                                                  \z@ \kern -\@pagedp \noint...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \kern 
+l.208 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \kern 
+l.208 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...arginparwidth \fi \box \@marbox 
+                                                  \hss }\nointerlineskip \hb...
+l.208 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \hss 
+l.208 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.211  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.211  \centering
+                 
+? 
+<../grafici/risultati/misura400_vmax.png, id=97, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura400_vmax.png Graphic file (type png)
+
+<use ../grafici/risultati/misura400_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura400_vmax.png used on input 
+line 214.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.217 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.217 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.217 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.217 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.217 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.217 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.217 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.217 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.217 \end{grafico}
+                   
+? 
+! Extra \else.
+\end@float ...pdima \penalty \@floatpenalty \else 
+                                                  \vadjust {\penalty -\@Miv ...
+l.217 \end{grafico}
+                   
+? 
+! You can't use `\vadjust' in vertical mode.
+\end@float ...nalty \@floatpenalty \else \vadjust 
+                                                  {\penalty -\@Miv \vbox {}\...
+l.217 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.217 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.217 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.220  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.220  \centering
+                 
+? 
+<../grafici/risultati/misura400_vmax_ev.png, id=98, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura400_vmax_ev.png Graphic file (type png)
+
+<use ../grafici/risultati/misura400_vmax_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura400_vmax_ev.png used on inp
+ut line 223.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.226 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.226 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.226 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.226 \end{grafico}
+                   
+? 
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \@elt 
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.226 \end{grafico}
+                   
+? 
+
+! LaTeX Error: This may be a LaTeX bug.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...advance \@tempdima \ht \@marbox 
+                                                  \ifdim \@tempdima >\z@ \@l...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.226 \end{grafico}
+                   
+? 
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+! Undefined control sequence.
+\@addmarginpar ...vance \@mparbottom \dp \@marbox 
+                                                  \global \advance \@mparbot...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.226 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...dvance \@tempdima -\ht \@marbox 
+                                                  \global \setbox \@marbox \...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.226 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \global \setbox \@marbox 
+                                                  \vbox {\vskip \@tempdima \...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.226 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...\vskip \@tempdima \box \@marbox 
+                                                  }\global \ht \@marbox \z@ ...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.226 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ... \@marbox }\global \ht \@marbox 
+                                                  \z@ \global \dp \@marbox \...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.226 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \global 
+l.226 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \z@ \global \dp \@marbox 
+                                                  \z@ \kern -\@pagedp \noint...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \kern 
+l.226 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \kern 
+l.226 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...arginparwidth \fi \box \@marbox 
+                                                  \hss }\nointerlineskip \hb...
+l.226 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \hss 
+l.226 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.231  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.231  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.231  \centering
+                 
+? 
+<../grafici/risultati/misura380.png, id=99, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura380.png Graphic file (type png)
+
+<use ../grafici/risultati/misura380.png>
+Package pdftex.def Info: ../grafici/risultati/misura380.png used on input line 
+234.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.237 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.237 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.237 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.237 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.237 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.237 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.237 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.237 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.237 \end{grafico}
+                   
+? 
+! Extra \else.
+\end@float ...pdima \penalty \@floatpenalty \else 
+                                                  \vadjust {\penalty -\@Miv ...
+l.237 \end{grafico}
+                   
+? 
+! You can't use `\vadjust' in vertical mode.
+\end@float ...nalty \@floatpenalty \else \vadjust 
+                                                  {\penalty -\@Miv \vbox {}\...
+l.237 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.237 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.237 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.239  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.239  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.239  \centering
+                 
+? 
+
+<../grafici/risultati/misura380_integral.png, id=100, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura380_integral.png Graphic file (type png)
+<use ../grafici/risultati/misura380_integral.png>
+Package pdftex.def Info: ../grafici/risultati/misura380_integral.png used on in
+put line 242.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.245 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.245 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.245 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.245 \end{grafico}
+                   
+? 
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \@elt 
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.245 \end{grafico}
+                   
+? 
+
+! LaTeX Error: This may be a LaTeX bug.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.245 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...advance \@tempdima \ht \@marbox 
+                                                  \ifdim \@tempdima >\z@ \@l...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.245 \end{grafico}
+                   
+? 
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+! Undefined control sequence.
+\@addmarginpar ...vance \@mparbottom \dp \@marbox 
+                                                  \global \advance \@mparbot...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.245 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...dvance \@tempdima -\ht \@marbox 
+                                                  \global \setbox \@marbox \...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.245 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \global \setbox \@marbox 
+                                                  \vbox {\vskip \@tempdima \...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.245 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...\vskip \@tempdima \box \@marbox 
+                                                  }\global \ht \@marbox \z@ ...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.245 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ... \@marbox }\global \ht \@marbox 
+                                                  \z@ \global \dp \@marbox \...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.245 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \global 
+l.245 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \z@ \global \dp \@marbox 
+                                                  \z@ \kern -\@pagedp \noint...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \kern 
+l.245 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \kern 
+l.245 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...arginparwidth \fi \box \@marbox 
+                                                  \hss }\nointerlineskip \hb...
+l.245 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \hss 
+l.245 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.248  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.248  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.248  \centering
+                 
+? 
+
+<../grafici/risultati/misura380_integral_ev.png, id=101, 700.6175pt x 472.76625
+pt>
+File: ../grafici/risultati/misura380_integral_ev.png Graphic file (type png)
+ <use ../grafici/risultati/misura380_integral_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura380_integral_ev.png used on
+ input line 251.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.254 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.254 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.254 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.254 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.254 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.254 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.254 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.254 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.254 \end{grafico}
+                   
+? 
+! Extra \else.
+\end@float ...pdima \penalty \@floatpenalty \else 
+                                                  \vadjust {\penalty -\@Miv ...
+l.254 \end{grafico}
+                   
+? 
+! You can't use `\vadjust' in vertical mode.
+\end@float ...nalty \@floatpenalty \else \vadjust 
+                                                  {\penalty -\@Miv \vbox {}\...
+l.254 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.254 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.254 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.257  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.257  \centering
+                 
+? 
+
+<../grafici/risultati/misura380_integral_vmax.png, id=102, 700.6175pt x 472.766
+25pt>
+File: ../grafici/risultati/misura380_integral_vmax.png Graphic file (type png)
+ <use ../grafici/risultati/misura380_integral_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura380_integral_vmax.png used 
+on input line 260.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.263 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.263 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.263 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.263 \end{grafico}
+                   
+? 
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \@elt 
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.263 \end{grafico}
+                   
+? 
+
+! LaTeX Error: This may be a LaTeX bug.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.263 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...advance \@tempdima \ht \@marbox 
+                                                  \ifdim \@tempdima >\z@ \@l...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.263 \end{grafico}
+                   
+? 
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+! Undefined control sequence.
+\@addmarginpar ...vance \@mparbottom \dp \@marbox 
+                                                  \global \advance \@mparbot...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.263 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...dvance \@tempdima -\ht \@marbox 
+                                                  \global \setbox \@marbox \...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.263 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \global \setbox \@marbox 
+                                                  \vbox {\vskip \@tempdima \...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.263 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...\vskip \@tempdima \box \@marbox 
+                                                  }\global \ht \@marbox \z@ ...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.263 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ... \@marbox }\global \ht \@marbox 
+                                                  \z@ \global \dp \@marbox \...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.263 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \global 
+l.263 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \z@ \global \dp \@marbox 
+                                                  \z@ \kern -\@pagedp \noint...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \kern 
+l.263 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \kern 
+l.263 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...arginparwidth \fi \box \@marbox 
+                                                  \hss }\nointerlineskip \hb...
+l.263 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \hss 
+l.263 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.266  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.266  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.266  \centering
+                 
+? 
+<../grafici/risultati/misura380_vmax.png, id=103, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura380_vmax.png Graphic file (type png)
+
+<use ../grafici/risultati/misura380_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/misura380_vmax.png used on input 
+line 269.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.272 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.272 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.272 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.272 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.272 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.272 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.272 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.272 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.272 \end{grafico}
+                   
+? 
+! Extra \else.
+\end@float ...pdima \penalty \@floatpenalty \else 
+                                                  \vadjust {\penalty -\@Miv ...
+l.272 \end{grafico}
+                   
+? 
+! You can't use `\vadjust' in vertical mode.
+\end@float ...nalty \@floatpenalty \else \vadjust 
+                                                  {\penalty -\@Miv \vbox {}\...
+l.272 \end{grafico}
+                   
+? 
+! Argument of \@xnext has an extra }.
+<inserted text> 
+                \par 
+l.272 \end{grafico}
+                   
+? 
+Runaway argument?
+\@currbox \@currlist \ifnum \count \@currbox >\z@ \advance \@pageht \@pagedp \E
+TC.
+! Paragraph ended before \@xnext was complete.
+<to be read again> 
+                   \par 
+l.272 \end{grafico}
+                   
+? 
+
+! LaTeX Error: Too many unprocessed floats.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.275  \centering
+                 
+? 
+! Undefined control sequence.
+\@float@Hx ...ltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.275  \centering
+                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.275  \centering
+                 
+? 
+
+<../grafici/risultati/misura380_vmax_ev.png, id=104, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/misura380_vmax_ev.png Graphic file (type png)
+
+<use ../grafici/risultati/misura380_vmax_ev.png>
+Package pdftex.def Info: ../grafici/risultati/misura380_vmax_ev.png used on inp
+ut line 278.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+
+! Undefined control sequence.
+\endgrafico ...floatbox \global \setbox \@currbox 
+                                                  \float@makebox \columnwidt...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.281 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\caption@ORI@float@makebox ...i \unvbox \@currbox 
+                                                  \else \unvbox \@currbox \i...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.281 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@largefloatcheck ->\ifdim \ht \@currbox 
+                                         >\textheight \@tempdima -\textheigh...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   >
+l.281 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+<argument> \@currbox 
+                     
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.281 \end{grafico}
+                   
+? 
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \@elt 
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \@elt 
+l.281 \end{grafico}
+                   
+? 
+
+! LaTeX Error: This may be a LaTeX bug.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.281 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...advance \@tempdima \ht \@marbox 
+                                                  \ifdim \@tempdima >\z@ \@l...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.281 \end{grafico}
+                   
+? 
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+! Undefined control sequence.
+\@addmarginpar ...vance \@mparbottom \dp \@marbox 
+                                                  \global \advance \@mparbot...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.281 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...dvance \@tempdima -\ht \@marbox 
+                                                  \global \setbox \@marbox \...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.281 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \global \setbox \@marbox 
+                                                  \vbox {\vskip \@tempdima \...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.281 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...\vskip \@tempdima \box \@marbox 
+                                                  }\global \ht \@marbox \z@ ...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.281 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ... \@marbox }\global \ht \@marbox 
+                                                  \z@ \global \dp \@marbox \...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.281 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \global 
+l.281 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...marbox \z@ \global \dp \@marbox 
+                                                  \z@ \kern -\@pagedp \noint...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \kern 
+l.281 \end{grafico}
+                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \kern 
+l.281 \end{grafico}
+                   
+? 
+! Undefined control sequence.
+\@addmarginpar ...arginparwidth \fi \box \@marbox 
+                                                  \hss }\nointerlineskip \hb...
+l.281 \end{grafico}
+                   
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \hss 
+l.281 \end{grafico}
+                   
+? 
+) [9
+
+ <../grafici/risultati/misura400_integral.png> <../grafici/risultati/misura400_
+integral_vmax.png> <../grafici/risultati/misura400_vmax_ev.png> <../grafici/ris
+ultati/misura380_integral.png> <../grafici/risultati/misura380_integral_vmax.pn
+g> <../grafici/risultati/misura380_vmax_ev.png>] [10 <../grafici/risultati/misu
+ra550.png> <../grafici/risultati/misura550_integral.png>] [11 <../grafici/risul
+tati/misura550_integral_vmax.png>] [12 <../grafici/risultati/misura550_vmax.png
+> <../grafici/risultati/misura550_vmax_ev.png>] [13 <../grafici/risultati/misur
+a500.png> <../grafici/risultati/misura500_integral.png>] [14 <../grafici/risult
+ati/misura500_integral_ev.png> <../grafici/risultati/misura500_integral_vmax.pn
+g>] [15 <../grafici/risultati/misura500_vmax.png> <../grafici/risultati/misura5
+00_vmax_ev.png>] [16 <../grafici/risultati/misura450.png> <../grafici/risultati
+/misura450_integral.png>] [17 <../grafici/risultati/misura450_integral_ev.png> 
+<../grafici/risultati/misura450_integral_vmax.png>] [18 <../grafici/risultati/m
+isura450_vmax.png> <../grafici/risultati/misura450_vmax_ev.png>])
+(./sezioni/pres_dati_tabelle.tex) (./sezioni/conclusioni.tex) [19
 
 ]
-(./sezioni/codice.tex)
+(./sezioni/codice.tex) [20]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
- [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (./relazione_spettroscopia_bragg.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
-Package rerunfilecheck Info: File `relazione_spettroscopia_bragg.out' has not c
-hanged.
-(rerunfilecheck)             Checksum: F1FCD9C4F5D03A7DC8109597D8307C94;349.
- ) 
+
+
+Package rerunfilecheck Warning: File `relazione_spettroscopia_bragg.out' has ch
+anged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `relazione_spettroscopia_bragg.out':
+
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  2F95C01A344156462642E0C8AE457ED0;801.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(\end occurred when \ifnum on line 272 was incomplete)
+(\end occurred when \ifnum on line 272 was incomplete)
+(\end occurred when \ifx on line 272 was incomplete)
+(\end occurred when \ifnum on line 272 was incomplete)
+(\end occurred when \ifnum on line 272 was incomplete)
+(\end occurred when \ifnum on line 272 was incomplete)
+(\end occurred when \ifnum on line 272 was incomplete)
+(\end occurred when \ifnum on line 272 was incomplete)
+(\end occurred when \ifnum on line 254 was incomplete)
+(\end occurred when \ifnum on line 254 was incomplete)
+(\end occurred when \ifx on line 254 was incomplete)
+(\end occurred when \ifnum on line 254 was incomplete)
+(\end occurred when \ifnum on line 254 was incomplete)
+(\end occurred when \ifnum on line 254 was incomplete)
+(\end occurred when \ifnum on line 254 was incomplete)
+(\end occurred when \ifnum on line 254 was incomplete)
+(\end occurred when \ifnum on line 237 was incomplete)
+(\end occurred when \ifnum on line 237 was incomplete)
+(\end occurred when \ifx on line 237 was incomplete)
+(\end occurred when \ifnum on line 237 was incomplete)
+(\end occurred when \ifnum on line 237 was incomplete)
+(\end occurred when \ifnum on line 237 was incomplete)
+(\end occurred when \ifnum on line 237 was incomplete)
+(\end occurred when \ifnum on line 237 was incomplete)
+(\end occurred when \ifnum on line 217 was incomplete)
+(\end occurred when \ifnum on line 217 was incomplete)
+(\end occurred when \ifx on line 217 was incomplete)
+(\end occurred when \ifnum on line 217 was incomplete)
+(\end occurred when \ifnum on line 217 was incomplete)
+(\end occurred when \ifnum on line 217 was incomplete)
+(\end occurred when \ifnum on line 217 was incomplete)
+(\end occurred when \ifnum on line 217 was incomplete)
+(\end occurred when \ifnum on line 199 was incomplete)
+(\end occurred when \ifnum on line 199 was incomplete)
+(\end occurred when \ifx on line 199 was incomplete)
+(\end occurred when \ifnum on line 199 was incomplete)
+(\end occurred when \ifnum on line 199 was incomplete)
+(\end occurred when \ifnum on line 199 was incomplete)
+(\end occurred when \ifnum on line 199 was incomplete)
+(\end occurred when \ifnum on line 199 was incomplete)
+(\end occurred when \ifnum on line 182 was incomplete)
+(\end occurred when \ifnum on line 182 was incomplete)
+(\end occurred when \ifx on line 182 was incomplete)
+(\end occurred when \ifnum on line 182 was incomplete)
+(\end occurred when \ifnum on line 182 was incomplete)
+(\end occurred when \ifnum on line 182 was incomplete)
+(\end occurred when \ifnum on line 182 was incomplete)
+(\end occurred when \ifnum on line 182 was incomplete) 
 Here is how much of TeX's memory you used:
- 24418 strings out of 493304
- 420696 string characters out of 6139872
- 634295 words of memory out of 5000000
- 27190 multiletter control sequences out of 15000+600000
- 160301 words of font info for 108 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 65i,11n,92p,885b,972s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/share/texlive/texmf
--dist/fonts/enc/dvips/alegreya/algrs_rus6f4.enc}{/usr/share/texmf/fonts/enc/dvi
-ps/tex-gyre/q-ec.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/anonymouspr
-o/AnonymousPro-01.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</
-usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/AlegreyaSans-Bold.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/AlegreyaSansSC-Bold.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/anonymouspro/AnonymousPro
--Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb></us
-r/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type
-1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.
-pfb>
-Output written on relazione_spettroscopia_bragg.pdf (5 pages, 133858 bytes).
+ 26633 strings out of 493105
+ 485517 string characters out of 6137073
+ 683579 words of memory out of 5000000
+ 29310 multiletter control sequences out of 15000+600000
+ 158887 words of font info for 105 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 64i,11n,92p,885b,990s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/e
+nc/dvips/tex-gyre/q-rm.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/alegr
+eya/algrs_rus6f4.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/
+share/texlive/texmf-dist/fonts/enc/dvips/anonymouspro/AnonymousPro-01.enc}{/usr
+/share/texmf/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texlive/texmf-dis
+t/fonts/type1/huerta/alegreya/AlegreyaSans-Bold.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/huerta/alegreya/AlegreyaSansSC-Bold.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/anonymouspro/AnonymousPro-Regular.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/euler/eurm7.pfb></usr/share/texmf/fonts/type1/
+public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb
+></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
+Output written on relazione_spettroscopia_bragg.pdf (20 pages, 420387 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
- 27722 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 245 PDF objects out of 1000 (max. 8388607)
+ 173 compressed objects within 2 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 27851 words of extra memory for PDF output out of 29859 (max. 10000000)
 
