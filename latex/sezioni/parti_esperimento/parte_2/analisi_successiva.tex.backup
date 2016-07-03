@@ -27,3 +27,32 @@ La lunghezza della camera di Bragg è 120 mm.
 \end{tabella}
 
 Infine, ad alte pressioni, è stato verificato che il range spaziale fosse inversamente proporzionale alla pressione.
+
+\begin{grafico}
+ \centering
+ \resizebox{\textwidth}{!}{%
+ \input{../grafici/risultati/rp1.tex}
+ }%
+ \caption{Grafico Range ($m \cdot b$) su Pressione ($mb$)} 
+ \label{gr:rp1.tex} 
+\end{grafico}
+
+
+\begin{grafico}
+ \centering
+ \resizebox{\textwidth}{!}{%
+ \input{../grafici/risultati/rp2.tex}
+ }%
+ \caption{Grafico Range ($m \cdot b$) su Pressione ($mb$)} 
+ \label{gr:rp2.tex} 
+\end{grafico}
+
+
+\begin{grafico}
+ \centering
+ \resizebox{\textwidth}{!}{%
+ \input{../grafici/risultati/rp3.tex}
+ }%
+ \caption{Grafico Range ($m \cdot b$) su Pressione ($mb$)} 
+ \label{gr:rp3.tex} 
+\end{grafico}
