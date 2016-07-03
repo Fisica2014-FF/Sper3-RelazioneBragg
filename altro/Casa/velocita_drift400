@@ -1,0 +1,3 @@
+h_bragg = 0.120 +- 0.001 m
+tdrift = (73.51 +- 0.08) * 100 ns
+vdrift = 1.63 +- 0.01 cm/mus
