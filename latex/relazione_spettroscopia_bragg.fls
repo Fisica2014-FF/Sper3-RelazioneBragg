@@ -633,6 +633,12 @@ INPUT tabelle/range_picco2.tex
 INPUT tabelle/range_picco2.tex
 INPUT tabelle/range_picco3.tex
 INPUT tabelle/range_picco3.tex
+INPUT ../grafici/risultati/rp1.tex
+INPUT ../grafici/risultati/rp1.tex
+INPUT ../grafici/risultati/rp2.tex
+INPUT ../grafici/risultati/rp2.tex
+INPUT ../grafici/risultati/rp3.tex
+INPUT ../grafici/risultati/rp3.tex
 INPUT ./sezioni/pres_dati_tabelle.tex
 INPUT ./sezioni/pres_dati_tabelle.tex
 INPUT ./sezioni/conclusioni.tex
