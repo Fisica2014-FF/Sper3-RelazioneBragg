@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1467579008 "./relazione_spettroscopia_bragg.tex" "relazione_spettroscopia_bragg.pdf" "relazione_spettroscopia_bragg" 1467579012
+["pdflatex"] 1467580099 "./relazione_spettroscopia_bragg.tex" "relazione_spettroscopia_bragg.pdf" "relazione_spettroscopia_bragg" 1467580103
   "../grafici/risultati/energy_integral.tex" 1467356419 13852 d3b8c17b65b4dfd06f2332d4d65e095a ""
   "../grafici/risultati/misura380.png" 1467356419 18781 5a31aa4c3b2f25229ba7a809ca0d1b3b ""
   "../grafici/risultati/misura380_integral.png" 1467356419 9380 11643a63ab8abd971ae4643f8132339e ""
@@ -325,10 +325,10 @@
   "preamboli_e_stili/pacchetti.tex" 1467317323 9680 acb9eea19e742cf426bca6ebd2a6a6d7 ""
   "preamboli_e_stili/stili_float.tex" 1467317323 1211 f6a5c71387814b2ee57bf66928e44c24 ""
   "preamboli_e_stili/titolo_spettroscopia.tex" 1467575005 802 7d496ca55901946874596b3547c7d632 ""
-  "relazione_spettroscopia_bragg.aux" 1467579012 15452 07b7e604ad71caa3dc8be30ecf93d771 ""
-  "relazione_spettroscopia_bragg.out" 1467579012 956 f8e9c8cd80ebd361578210b0813e5b8a ""
+  "relazione_spettroscopia_bragg.aux" 1467580103 15452 07b7e604ad71caa3dc8be30ecf93d771 ""
+  "relazione_spettroscopia_bragg.out" 1467580103 956 f8e9c8cd80ebd361578210b0813e5b8a ""
   "relazione_spettroscopia_bragg.tex" 1467575005 2598 9ac54e5c4567569b9a436c6a1bc9adfc ""
-  "relazione_spettroscopia_bragg.toc" 1467579012 1274 839e8cd6ed88e0a935c3a3e8ce7feff1 ""
+  "relazione_spettroscopia_bragg.toc" 1467580103 1274 839e8cd6ed88e0a935c3a3e8ce7feff1 ""
   "sezioni/codice.tex" 1467479286 269 712979203667788897cde50d0b3974db ""
   "sezioni/conclusioni.tex" 1467356419 11 716eacf578ed5a2ac2fac8bb5078e00a ""
   "sezioni/descrizione_app_strumentale.tex" 1467575005 79 09fcf78471781c29a31ab2acef72c8c0 ""
@@ -350,13 +350,13 @@
   "tabelle/range_picco1.tex" 1467575426 421 e5714e1970135e5a6c10e5628bb248ba ""
   "tabelle/range_picco2.tex" 1467575502 387 0eba28113e818d476c268dfc5c2665b6 ""
   "tabelle/range_picco3.tex" 1467575446 341 7854ffc8c52c3a865614b507e6fb3a6a ""
-  "tabelle/tab_integral1.tex" 1467558812 449 31e8d0d076c725d0c17c6a6f52a20a27 ""
-  "tabelle/tab_integral2.tex" 1467558830 424 3df4f2c1de3f7eb4272417d5b3861f52 ""
-  "tabelle/tab_integral3.tex" 1467558842 342 fe54d1310ee6346bbcce51080b38a608 ""
+  "tabelle/tab_integral1.tex" 1467579726 373 c94afbae158162ef1de865532c69878e ""
+  "tabelle/tab_integral2.tex" 1467579796 375 c75d4ec1bf61d69a622fffd8fc4e2a10 ""
+  "tabelle/tab_integral3.tex" 1467579878 289 dffa2c70f7848f7551f456dcec733da5 ""
   "tabelle/tab_vmax.tex" 1467558820 450 57be521cfa8e68a2d75ab1eadc83ad93 ""
   (generated)
   "relazione_spettroscopia_bragg.out"
-  "relazione_spettroscopia_bragg.toc"
   "relazione_spettroscopia_bragg.aux"
   "relazione_spettroscopia_bragg.pdf"
+  "relazione_spettroscopia_bragg.toc"
   "relazione_spettroscopia_bragg.log"
