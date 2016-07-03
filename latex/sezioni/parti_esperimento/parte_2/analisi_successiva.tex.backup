@@ -5,25 +5,5 @@ tramite la formula per il calcolo della velocità:
 $$ v=\frac{lunghezza camera}{range temporale} $$
 
 La lunghezza della camera di Bragg è 120 mm.
-\begin{tabella}
- \centering
- \input{tabelle/range_picco1.tex} 
- \caption{Dati picchi in energia e RMS}
- \label{tab:range_picco1.tex}
-\end{tabella}
-
-\begin{tabella}
- \centering
- \input{tabelle/range_picco2.tex} 
- \caption{Dati picchi in energia e RMS}
- \label{tab:range_picco2.tex}
-\end{tabella}
-
-\begin{tabella}
- \centering
- \input{tabelle/range_picco3.tex} 
- \caption{Dati picchi in energia e RMS}
- \label{tab:range_picco3.tex}
-\end{tabella}
 
 Infine, ad alte pressioni, è stato verificato che il range spaziale fosse inversamente proporzionale alla pressione.
