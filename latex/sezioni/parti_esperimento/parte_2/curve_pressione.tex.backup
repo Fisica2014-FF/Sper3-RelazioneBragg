@@ -1,0 +1,11 @@
+\subsection{Curve in funzione della pressione}
+\FloatBarrier
+
+\begin{grafico}
+ \centering
+ \resizebox{\textwidth}{!}{%
+ \includegraphics{../grafici/risultati/picchi_integral1.pdf}
+ }%
+ \caption{Andamento integrale del picco 1 in funzione della pressione [mb]} 
+ \label{gr:picchi_int1} 
+\end{grafico}

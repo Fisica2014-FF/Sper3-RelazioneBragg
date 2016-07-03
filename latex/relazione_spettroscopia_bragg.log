@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.1)  1 JUL 2016 14:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.1)  2 JUL 2016 17:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1545,7 +1545,7 @@ Package microtype Info: Loading generic settings for font family
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Try loading font information for T1+AlegreyaSansSC-LF on in
-put line 48.
+put line 50.
  (/usr/share/texlive/texmf-dist/tex/latex/alegreya/T1AlegreyaSansSC-LF.fd
 File: T1AlegreyaSansSC-LF.fd 2014/01/10 (autoinst) Font definitions for T1/Aleg
 reyaSansSC-LF.
@@ -1581,7 +1581,7 @@ LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/n' will be
 LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 1.
 
-<../grafici/risultati/misura600.png, id=87, 700.6175pt x 475.7775pt>
+<../grafici/risultati/misura600.png, id=92, 700.6175pt x 475.7775pt>
 File: ../grafici/risultati/misura600.png Graphic file (type png)
 
 <use ../grafici/risultati/misura600.png>
@@ -1590,27 +1590,27 @@ Package pdftex.def Info: ../grafici/risultati/misura600.png used on input line
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
 Package hyperref Info: bookmark level for unknown grafico defaults to 0 on inpu
 t line 19.
-
-<../grafici/risultati/misura600fondo.png, id=88, 700.6175pt x 475.7775pt>
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/qpl/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+ [2]
+<../grafici/risultati/misura600fondo.png, id=101, 700.6175pt x 475.7775pt>
 File: ../grafici/risultati/misura600fondo.png Graphic file (type png)
 
 <use ../grafici/risultati/misura600fondo.png>
 Package pdftex.def Info: ../grafici/risultati/misura600fondo.png used on input 
 line 31.
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/qpl/m/sc/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
- [2]
-<../grafici/risultati/misura600fondo_baseline.png, id=97, 700.6175pt x 475.7775
-pt>
+
+<../grafici/risultati/misura600fondo_baseline.png, id=102, 700.6175pt x 475.777
+5pt>
 File: ../grafici/risultati/misura600fondo_baseline.png Graphic file (type png)
  <use ../grafici/risultati/misura600fondo_baseline.png>
 Package pdftex.def Info: ../grafici/risultati/misura600fondo_baseline.png used 
 on input line 42.
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
 
-<../grafici/risultati/misura600_integral.png, id=98, 700.6175pt x 475.7775pt>
+<../grafici/risultati/misura600_integral.png, id=103, 700.6175pt x 475.7775pt>
 File: ../grafici/risultati/misura600_integral.png Graphic file (type png)
 
 <use ../grafici/risultati/misura600_integral.png>
@@ -1618,15 +1618,15 @@ Package pdftex.def Info: ../grafici/risultati/misura600_integral.png used on in
 put line 56.
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
 
-<../grafici/risultati/misura600_integral_ev.png, id=99, 700.6175pt x 475.7775pt
->
+<../grafici/risultati/misura600_integral_ev.png, id=104, 700.6175pt x 475.7775p
+t>
 File: ../grafici/risultati/misura600_integral_ev.png Graphic file (type png)
  <use ../grafici/risultati/misura600_integral_ev.png>
 Package pdftex.def Info: ../grafici/risultati/misura600_integral_ev.png used on
  input line 65.
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
 
-<../grafici/risultati/misura600_integral_vmax.png, id=100, 700.6175pt x 475.777
+<../grafici/risultati/misura600_integral_vmax.png, id=105, 700.6175pt x 475.777
 5pt>
 File: ../grafici/risultati/misura600_integral_vmax.png Graphic file (type png)
  <use ../grafici/risultati/misura600_integral_vmax.png>
@@ -1634,7 +1634,7 @@ Package pdftex.def Info: ../grafici/risultati/misura600_integral_vmax.png used
 on input line 74.
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
 
-<../grafici/risultati/misura600_vmax.png, id=101, 700.6175pt x 475.7775pt>
+<../grafici/risultati/misura600_vmax.png, id=106, 700.6175pt x 475.7775pt>
 File: ../grafici/risultati/misura600_vmax.png Graphic file (type png)
 
 <use ../grafici/risultati/misura600_vmax.png>
@@ -1642,7 +1642,7 @@ Package pdftex.def Info: ../grafici/risultati/misura600_vmax.png used on input
 line 83.
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
 
-<../grafici/risultati/misura600_vmax_ev.png, id=102, 700.6175pt x 475.7775pt>
+<../grafici/risultati/misura600_vmax_ev.png, id=107, 700.6175pt x 475.7775pt>
 File: ../grafici/risultati/misura600_vmax_ev.png Graphic file (type png)
 
 <use ../grafici/risultati/misura600_vmax_ev.png>
@@ -1663,7 +1663,7 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 )
-<../grafici/risultati/misura600_energy.png, id=132, 700.6175pt x 475.7775pt>
+<../grafici/risultati/misura600_energy.png, id=137, 700.6175pt x 475.7775pt>
 File: ../grafici/risultati/misura600_energy.png Graphic file (type png)
 
 <use ../grafici/risultati/misura600_energy.png>
@@ -1675,7 +1675,7 @@ t line 31.
 ] [9 <../grafici/risultati/misura600_energy.png>])) (./sezioni/parti_esperiment
 o/parte_2.tex
 (./sezioni/parti_esperimento/parte_2/misura_650.tex
-<../grafici/risultati/misura650.png, id=146, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura650.png, id=151, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura650.png Graphic file (type png)
 
 <use ../grafici/risultati/misura650.png>
@@ -1683,14 +1683,14 @@ Package pdftex.def Info: ../grafici/risultati/misura650.png used on input line
 8.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura650_integral.png, id=147, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura650_integral.png, id=152, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura650_integral.png Graphic file (type png)
 <use ../grafici/risultati/misura650_integral.png>
 Package pdftex.def Info: ../grafici/risultati/misura650_integral.png used on in
 put line 17.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura650_integral_ev.png, id=148, 700.6175pt x 472.76625
+<../grafici/risultati/misura650_integral_ev.png, id=153, 700.6175pt x 472.76625
 pt>
 File: ../grafici/risultati/misura650_integral_ev.png Graphic file (type png)
  <use ../grafici/risultati/misura650_integral_ev.png>
@@ -1698,7 +1698,7 @@ Package pdftex.def Info: ../grafici/risultati/misura650_integral_ev.png used on
  input line 26.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura650_integral_vmax.png, id=149, 700.6175pt x 472.766
+<../grafici/risultati/misura650_integral_vmax.png, id=154, 700.6175pt x 472.766
 25pt>
 File: ../grafici/risultati/misura650_integral_vmax.png Graphic file (type png)
  <use ../grafici/risultati/misura650_integral_vmax.png>
@@ -1706,7 +1706,7 @@ Package pdftex.def Info: ../grafici/risultati/misura650_integral_vmax.png used
 on input line 35.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura650_vmax.png, id=150, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura650_vmax.png, id=155, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura650_vmax.png Graphic file (type png)
 
 <use ../grafici/risultati/misura650_vmax.png>
@@ -1714,7 +1714,7 @@ Package pdftex.def Info: ../grafici/risultati/misura650_vmax.png used on input
 line 44.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura650_vmax_ev.png, id=151, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura650_vmax_ev.png, id=156, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura650_vmax_ev.png Graphic file (type png)
 
 <use ../grafici/risultati/misura650_vmax_ev.png>
@@ -1728,51 +1728,51 @@ gral.png>] [12 <../grafici/risultati/misura650_integral_ev.png> <../grafici/ris
 ultati/misura650_integral_vmax.png>] [13 <../grafici/risultati/misura650_vmax.p
 ng> <../grafici/risultati/misura650_vmax_ev.png>]) (./sezioni/parti_esperimento
 /parte_2/misura_550.tex
-<../grafici/risultati/misura550.png, id=176, 700.6175pt x 475.7775pt>
+<../grafici/risultati/misura550.png, id=181, 700.6175pt x 475.7775pt>
 File: ../grafici/risultati/misura550.png Graphic file (type png)
 
 <use ../grafici/risultati/misura550.png>
 Package pdftex.def Info: ../grafici/risultati/misura550.png used on input line 
-8.
+7.
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
 
-<../grafici/risultati/misura550_integral.png, id=177, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura550_integral.png, id=182, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura550_integral.png Graphic file (type png)
 <use ../grafici/risultati/misura550_integral.png>
 Package pdftex.def Info: ../grafici/risultati/misura550_integral.png used on in
-put line 17.
+put line 16.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura550_integral_ev.png, id=178, 700.6175pt x 472.76625
+<../grafici/risultati/misura550_integral_ev.png, id=183, 700.6175pt x 472.76625
 pt>
 File: ../grafici/risultati/misura550_integral_ev.png Graphic file (type png)
  <use ../grafici/risultati/misura550_integral_ev.png>
 Package pdftex.def Info: ../grafici/risultati/misura550_integral_ev.png used on
- input line 26.
+ input line 25.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura550_integral_vmax.png, id=179, 700.6175pt x 472.766
+<../grafici/risultati/misura550_integral_vmax.png, id=184, 700.6175pt x 472.766
 25pt>
 File: ../grafici/risultati/misura550_integral_vmax.png Graphic file (type png)
  <use ../grafici/risultati/misura550_integral_vmax.png>
 Package pdftex.def Info: ../grafici/risultati/misura550_integral_vmax.png used 
-on input line 35.
+on input line 34.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura550_vmax.png, id=180, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura550_vmax.png, id=185, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura550_vmax.png Graphic file (type png)
 
 <use ../grafici/risultati/misura550_vmax.png>
 Package pdftex.def Info: ../grafici/risultati/misura550_vmax.png used on input 
-line 44.
+line 43.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura550_vmax_ev.png, id=181, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura550_vmax_ev.png, id=186, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura550_vmax_ev.png Graphic file (type png)
 
 <use ../grafici/risultati/misura550_vmax_ev.png>
 Package pdftex.def Info: ../grafici/risultati/misura550_vmax_ev.png used on inp
-ut line 53.
+ut line 52.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
  [14
 
@@ -1781,7 +1781,7 @@ gral.png>] [16 <../grafici/risultati/misura550_integral_ev.png> <../grafici/ris
 ultati/misura550_integral_vmax.png>] [17 <../grafici/risultati/misura550_vmax.p
 ng> <../grafici/risultati/misura550_vmax_ev.png>]) (./sezioni/parti_esperimento
 /parte_2/misura_500.tex
-<../grafici/risultati/misura500.png, id=204, 700.6175pt x 475.7775pt>
+<../grafici/risultati/misura500.png, id=209, 700.6175pt x 475.7775pt>
 File: ../grafici/risultati/misura500.png Graphic file (type png)
 
 <use ../grafici/risultati/misura500.png>
@@ -1789,14 +1789,14 @@ Package pdftex.def Info: ../grafici/risultati/misura500.png used on input line
 8.
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
 
-<../grafici/risultati/misura500_integral.png, id=205, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura500_integral.png, id=210, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura500_integral.png Graphic file (type png)
 <use ../grafici/risultati/misura500_integral.png>
 Package pdftex.def Info: ../grafici/risultati/misura500_integral.png used on in
 put line 17.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura500_integral_ev.png, id=206, 700.6175pt x 472.76625
+<../grafici/risultati/misura500_integral_ev.png, id=211, 700.6175pt x 472.76625
 pt>
 File: ../grafici/risultati/misura500_integral_ev.png Graphic file (type png)
  <use ../grafici/risultati/misura500_integral_ev.png>
@@ -1804,7 +1804,7 @@ Package pdftex.def Info: ../grafici/risultati/misura500_integral_ev.png used on
  input line 26.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura500_integral_vmax.png, id=207, 700.6175pt x 472.766
+<../grafici/risultati/misura500_integral_vmax.png, id=212, 700.6175pt x 472.766
 25pt>
 File: ../grafici/risultati/misura500_integral_vmax.png Graphic file (type png)
  <use ../grafici/risultati/misura500_integral_vmax.png>
@@ -1812,7 +1812,7 @@ Package pdftex.def Info: ../grafici/risultati/misura500_integral_vmax.png used
 on input line 35.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura500_vmax.png, id=208, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura500_vmax.png, id=213, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura500_vmax.png Graphic file (type png)
 
 <use ../grafici/risultati/misura500_vmax.png>
@@ -1820,7 +1820,7 @@ Package pdftex.def Info: ../grafici/risultati/misura500_vmax.png used on input
 line 44.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura500_vmax_ev.png, id=209, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura500_vmax_ev.png, id=214, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura500_vmax_ev.png Graphic file (type png)
 
 <use ../grafici/risultati/misura500_vmax_ev.png>
@@ -1834,7 +1834,7 @@ gral.png>] [20 <../grafici/risultati/misura500_integral_ev.png> <../grafici/ris
 ultati/misura500_integral_vmax.png>] [21 <../grafici/risultati/misura500_vmax.p
 ng> <../grafici/risultati/misura500_vmax_ev.png>]) (./sezioni/parti_esperimento
 /parte_2/misura_450.tex
-<../grafici/risultati/misura450.png, id=233, 700.6175pt x 475.7775pt>
+<../grafici/risultati/misura450.png, id=238, 700.6175pt x 475.7775pt>
 File: ../grafici/risultati/misura450.png Graphic file (type png)
 
 <use ../grafici/risultati/misura450.png>
@@ -1842,14 +1842,14 @@ Package pdftex.def Info: ../grafici/risultati/misura450.png used on input line
 8.
 (pdftex.def)             Requested size: 700.61578pt x 475.77632pt.
 
-<../grafici/risultati/misura450_integral.png, id=234, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura450_integral.png, id=239, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura450_integral.png Graphic file (type png)
 <use ../grafici/risultati/misura450_integral.png>
 Package pdftex.def Info: ../grafici/risultati/misura450_integral.png used on in
 put line 17.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura450_integral_ev.png, id=235, 700.6175pt x 472.76625
+<../grafici/risultati/misura450_integral_ev.png, id=240, 700.6175pt x 472.76625
 pt>
 File: ../grafici/risultati/misura450_integral_ev.png Graphic file (type png)
  <use ../grafici/risultati/misura450_integral_ev.png>
@@ -1857,7 +1857,7 @@ Package pdftex.def Info: ../grafici/risultati/misura450_integral_ev.png used on
  input line 26.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura450_integral_vmax.png, id=236, 700.6175pt x 472.766
+<../grafici/risultati/misura450_integral_vmax.png, id=241, 700.6175pt x 472.766
 25pt>
 File: ../grafici/risultati/misura450_integral_vmax.png Graphic file (type png)
  <use ../grafici/risultati/misura450_integral_vmax.png>
@@ -1865,7 +1865,7 @@ Package pdftex.def Info: ../grafici/risultati/misura450_integral_vmax.png used
 on input line 35.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura450_vmax.png, id=237, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura450_vmax.png, id=242, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura450_vmax.png Graphic file (type png)
 
 <use ../grafici/risultati/misura450_vmax.png>
@@ -1873,7 +1873,7 @@ Package pdftex.def Info: ../grafici/risultati/misura450_vmax.png used on input
 line 44.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura450_vmax_ev.png, id=238, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura450_vmax_ev.png, id=243, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura450_vmax_ev.png Graphic file (type png)
 
 <use ../grafici/risultati/misura450_vmax_ev.png>
@@ -1887,7 +1887,7 @@ gral.png>] [24 <../grafici/risultati/misura450_integral_ev.png> <../grafici/ris
 ultati/misura450_integral_vmax.png>] [25 <../grafici/risultati/misura450_vmax.p
 ng> <../grafici/risultati/misura450_vmax_ev.png>]) (./sezioni/parti_esperimento
 /parte_2/misura_400.tex
-<../grafici/risultati/misura400.png, id=262, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura400.png, id=267, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura400.png Graphic file (type png)
 
 <use ../grafici/risultati/misura400.png>
@@ -1895,14 +1895,14 @@ Package pdftex.def Info: ../grafici/risultati/misura400.png used on input line
 8.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura400_integral.png, id=263, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura400_integral.png, id=268, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura400_integral.png Graphic file (type png)
 <use ../grafici/risultati/misura400_integral.png>
 Package pdftex.def Info: ../grafici/risultati/misura400_integral.png used on in
 put line 16.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura400_integral_ev.png, id=264, 700.6175pt x 472.76625
+<../grafici/risultati/misura400_integral_ev.png, id=269, 700.6175pt x 472.76625
 pt>
 File: ../grafici/risultati/misura400_integral_ev.png Graphic file (type png)
  <use ../grafici/risultati/misura400_integral_ev.png>
@@ -1910,7 +1910,7 @@ Package pdftex.def Info: ../grafici/risultati/misura400_integral_ev.png used on
  input line 25.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura400_integral_vmax.png, id=265, 700.6175pt x 472.766
+<../grafici/risultati/misura400_integral_vmax.png, id=270, 700.6175pt x 472.766
 25pt>
 File: ../grafici/risultati/misura400_integral_vmax.png Graphic file (type png)
  <use ../grafici/risultati/misura400_integral_vmax.png>
@@ -1918,7 +1918,7 @@ Package pdftex.def Info: ../grafici/risultati/misura400_integral_vmax.png used
 on input line 34.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura400_vmax.png, id=266, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura400_vmax.png, id=271, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura400_vmax.png Graphic file (type png)
 
 <use ../grafici/risultati/misura400_vmax.png>
@@ -1926,7 +1926,7 @@ Package pdftex.def Info: ../grafici/risultati/misura400_vmax.png used on input
 line 43.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura400_vmax_ev.png, id=267, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura400_vmax_ev.png, id=272, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura400_vmax_ev.png Graphic file (type png)
 
 <use ../grafici/risultati/misura400_vmax_ev.png>
@@ -1940,7 +1940,7 @@ gral.png>] [28 <../grafici/risultati/misura400_integral_ev.png> <../grafici/ris
 ultati/misura400_integral_vmax.png>] [29 <../grafici/risultati/misura400_vmax.p
 ng> <../grafici/risultati/misura400_vmax_ev.png>]) (./sezioni/parti_esperimento
 /parte_2/misura_380.tex
-<../grafici/risultati/misura380.png, id=290, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura380.png, id=295, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura380.png Graphic file (type png)
 
 <use ../grafici/risultati/misura380.png>
@@ -1948,91 +1948,150 @@ Package pdftex.def Info: ../grafici/risultati/misura380.png used on input line
 8.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura380_integral.png, id=291, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura380_integral.png, id=296, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura380_integral.png Graphic file (type png)
 <use ../grafici/risultati/misura380_integral.png>
 Package pdftex.def Info: ../grafici/risultati/misura380_integral.png used on in
-put line 16.
+put line 17.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura380_integral_ev.png, id=292, 700.6175pt x 472.76625
+<../grafici/risultati/misura380_integral_ev.png, id=297, 700.6175pt x 472.76625
 pt>
 File: ../grafici/risultati/misura380_integral_ev.png Graphic file (type png)
  <use ../grafici/risultati/misura380_integral_ev.png>
 Package pdftex.def Info: ../grafici/risultati/misura380_integral_ev.png used on
- input line 25.
+ input line 26.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura380_integral_vmax.png, id=293, 700.6175pt x 472.766
+<../grafici/risultati/misura380_integral_vmax.png, id=298, 700.6175pt x 472.766
 25pt>
 File: ../grafici/risultati/misura380_integral_vmax.png Graphic file (type png)
  <use ../grafici/risultati/misura380_integral_vmax.png>
 Package pdftex.def Info: ../grafici/risultati/misura380_integral_vmax.png used 
-on input line 34.
+on input line 35.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura380_vmax.png, id=294, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura380_vmax.png, id=299, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura380_vmax.png Graphic file (type png)
 
 <use ../grafici/risultati/misura380_vmax.png>
 Package pdftex.def Info: ../grafici/risultati/misura380_vmax.png used on input 
-line 43.
+line 44.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
 
-<../grafici/risultati/misura380_vmax_ev.png, id=295, 700.6175pt x 472.76625pt>
+<../grafici/risultati/misura380_vmax_ev.png, id=300, 700.6175pt x 472.76625pt>
 File: ../grafici/risultati/misura380_vmax_ev.png Graphic file (type png)
 
 <use ../grafici/risultati/misura380_vmax_ev.png>
 Package pdftex.def Info: ../grafici/risultati/misura380_vmax_ev.png used on inp
-ut line 52.
+ut line 53.
 (pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
  [30
 
 ] [31 <../grafici/risultati/misura380.png> <../grafici/risultati/misura380_inte
 gral.png>] [32 <../grafici/risultati/misura380_integral_ev.png> <../grafici/ris
 ultati/misura380_integral_vmax.png>] [33 <../grafici/risultati/misura380_vmax.p
-ng> <../grafici/risultati/misura380_vmax_ev.png>]))) (./sezioni/pres_dati_tabel
-le.tex)
-(./sezioni/conclusioni.tex) [34
+ng> <../grafici/risultati/misura380_vmax_ev.png>])
+(./sezioni/parti_esperimento/parte_2/curve_pressione.tex
+<../grafici/risultati/picchi_integral1.pdf, id=325, 569.12625pt x 384.43625pt>
+File: ../grafici/risultati/picchi_integral1.pdf Graphic file (type pdf)
 
-] (./sezioni/codice.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
- [35]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
+<use ../grafici/risultati/picchi_integral1.pdf>
+Package pdftex.def Info: ../grafici/risultati/picchi_integral1.pdf used on inpu
+t line 8.
+(pdftex.def)             Requested size: 569.12486pt x 384.4353pt.
+
+<../grafici/risultati/picchi_integral2.pdf, id=326, 569.12625pt x 384.43625pt>
+File: ../grafici/risultati/picchi_integral2.pdf Graphic file (type pdf)
+
+<use ../grafici/risultati/picchi_integral2.pdf>
+Package pdftex.def Info: ../grafici/risultati/picchi_integral2.pdf used on inpu
+t line 17.
+(pdftex.def)             Requested size: 569.12486pt x 384.4353pt.
+
+<../grafici/risultati/picchi_integral3.pdf, id=327, 569.12625pt x 384.43625pt>
+File: ../grafici/risultati/picchi_integral3.pdf Graphic file (type pdf)
+
+<use ../grafici/risultati/picchi_integral3.pdf>
+Package pdftex.def Info: ../grafici/risultati/picchi_integral3.pdf used on inpu
+t line 26.
+(pdftex.def)             Requested size: 569.12486pt x 384.4353pt.
+
+<../grafici/risultati/picchi_vmax.png, id=328, 700.6175pt x 472.76625pt>
+File: ../grafici/risultati/picchi_vmax.png Graphic file (type png)
+
+<use ../grafici/risultati/picchi_vmax.png>
+Package pdftex.def Info: ../grafici/risultati/picchi_vmax.png used on input lin
+e 35.
+(pdftex.def)             Requested size: 700.61578pt x 472.76509pt.
+ [34
+
+] [35 <../grafici/risultati/picchi_integral1.pdf, page is rotated 90 degrees> <
+../grafici/risultati/picchi_integral2.pdf, page is rotated 90 degrees>] [36 <..
+/grafici/risultati/picchi_integral3.pdf, page is rotated 90 degrees> <../grafic
+i/risultati/picchi_vmax.png>])))
+(./sezioni/pres_dati_tabelle.tex) (./sezioni/conclusioni.tex) [37
+
+]
+(./sezioni/codice.tex
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+)
+LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
+(Font)              scaled to size 8.81996pt on input line 6.
+
+(../src/AnaBraggWidth.C
+LaTeX Font Info:    Font shape `T1/AnonymousPro/b/n' will be
+(Font)              scaled to size 8.81996pt on input line 1.
+LaTeX Font Info:    Font shape `T1/AnonymousPro/m/it' will be
+(Font)              scaled to size 8.81996pt on input line 43.
+ [38] [39]) (../src/PlotSignals.C [40] [41]))
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
+ [42]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
 
 (./relazione_spettroscopia_bragg.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
 Package rerunfilecheck Info: File `relazione_spettroscopia_bragg.out' has not c
 hanged.
-(rerunfilecheck)             Checksum: 770A7EF46AC1189C7D344104AB659256;875.
+(rerunfilecheck)             Checksum: A63FDF901BDABE8DB7AF1EE282CC2E1F;958.
  ) 
 Here is how much of TeX's memory you used:
- 24795 strings out of 493304
- 432560 string characters out of 6139872
- 634081 words of memory out of 5000000
- 27417 multiletter control sequences out of 15000+600000
- 159027 words of font info for 106 fonts, out of 8000000 for 9000
+ 25660 strings out of 493304
+ 443362 string characters out of 6139872
+ 737480 words of memory out of 5000000
+ 28028 multiletter control sequences out of 15000+600000
+ 165492 words of font info for 121 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 65i,11n,92p,885b,976s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/share/texlive/texmf
--dist/fonts/enc/dvips/alegreya/algrs_rus6f4.enc}{/usr/share/texmf/fonts/enc/dvi
-ps/tex-gyre/q-ec.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/anonymouspr
-o/AnonymousPro-01.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</
-usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/AlegreyaSans-Bold.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/AlegreyaSansSC-Bold.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/anonymouspro/AnonymousPro
--Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb></u
-sr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/texmf/fonts/typ
-e1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri
-.pfb>
-Output written on relazione_spettroscopia_bragg.pdf (35 pages, 550686 bytes).
+ 65i,12n,100p,885b,2131s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/anonymouspro/AnonymousPro-03.e
+nc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/anonymouspro/AnonymousPro-01.
+enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/share/texlive/tex
+mf-dist/fonts/enc/dvips/alegreya/algrs_rus6f4.enc}{/usr/share/texmf/fonts/enc/d
+vips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}<
+/usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/AlegreyaSans-Bold.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/huerta/alegreya/AlegreyaSansSC-Bold
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/anonymouspro/AnonymousPr
+o-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/anonymouspro/Anony
+mousPro-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/anonymousp
+ro/AnonymousPro-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/euler/eufm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/e
+uler/eurm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/eule
+r/eurm7.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/
+texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public
+/tex-gyre/qplri.pfb>
+Output written on relazione_spettroscopia_bragg.pdf (42 pages, 640858 bytes).
 PDF statistics:
- 390 PDF objects out of 1000 (max. 8388607)
- 295 compressed objects within 3 object streams
- 96 named destinations out of 1000 (max. 500000)
- 27998 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 828 PDF objects out of 1000 (max. 8388607)
+ 641 compressed objects within 7 object streams
+ 312 named destinations out of 1000 (max. 500000)
+ 31610 words of extra memory for PDF output out of 35830 (max. 10000000)
 
