@@ -16,7 +16,7 @@ E' stato quindi acquisito il primo set di dati (circa 3000 eventi)
  \resizebox{\textwidth}{!}{%
  \includegraphics{../grafici/risultati/misura600.png}
  }%
- \caption{Grafico segnali a 600mb in funzione del tempo ($\mu$ s)} 
+ \caption{Grafico segnali a 600mb} 
  \label{gr:misura_600} 
 \end{grafico}
 
@@ -29,7 +29,7 @@ In particolare, è stato calcolato il centroide del picco della baseline, da ins
  \resizebox{\textwidth}{!}{%
  \includegraphics{../grafici/risultati/misura600fondo.png}
  }%
- \caption{Grafico segnali baseline in funzione del tempo ($\mu$ s)} 
+ \caption{Grafico segnali baseline} 
  \label{gr:misura600fondo} 
 \end{grafico}
 
@@ -54,7 +54,7 @@ Il limite dei campioni a 600 mb è stato posto uguale a 90.
  \resizebox{\textwidth}{!}{%
  \includegraphics{../grafici/risultati/misura600_integral.png}
  }%
- \caption{Grafico integral} 
+ \caption{Grafico integrale} 
  \label{gr:misura600_integral} 
 \end{grafico}
 
