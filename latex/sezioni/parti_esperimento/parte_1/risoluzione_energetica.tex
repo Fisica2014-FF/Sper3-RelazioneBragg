@@ -7,11 +7,11 @@ Da questi dati abbiamo proceduto ad un interpolazione dell'integrale in funzione
 Usando la funzione, abbiamo riscalato l'asse delle ascisse nell'istogramma degli integrali, in modo che mostrasse l'energia. 
 Da questo nuovo istogramma abbiamo ricavato la risoluzione energetica, misurando l'RMS dei picchi e usandola per la formula
 
-TODO fatemela bene voi la formula qui, non so fare le equazioni
+\begin{equation}
+ R=\frac{FWHM_E}{E}=\frac{2.335\cdot\sigma_E}{E}
+\end{equation}
 
-$$risoluzione=\frac{2.335\cdot\sigma_E}{E}$$
-
-\begin{grafico}
+\begin{grafico}[H]
  \centering
  \resizebox{\textwidth}{!}{%
  \input{../grafici/risultati/energy_integral.tex}
@@ -20,9 +20,10 @@ $$risoluzione=\frac{2.335\cdot\sigma_E}{E}$$
  \label{gr:energy_integral.tex} 
 \end{grafico}
 
-TODO fate voi anche qui
+\FloatBarrier
 $$q=19.6792\pm19.5559$$
 $$m=1.2469\pm0.00354684$$
+
 
 \begin{grafico}
  \centering

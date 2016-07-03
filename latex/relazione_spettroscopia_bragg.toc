@@ -1,9 +1,9 @@
 \select@language {italian}
 \select@language {italian}
-\contentsline {section}{\numberline {I}Schema camera}{3}{section.1}
-\contentsline {section}{\numberline {II}Parte I}{3}{section.2}
-\contentsline {subsection}{\numberline {I}Prima misura delle particelle alfa}{3}{subsection.2.1}
-\contentsline {subsection}{\numberline {II}Risoluzione energetica}{9}{subsection.2.2}
+\contentsline {section}{\numberline {I}Schema camera}{4}{section.1}
+\contentsline {section}{\numberline {II}Parte I}{4}{section.2}
+\contentsline {subsection}{\numberline {I}Prima misura delle particelle alfa}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {II}Risoluzione energetica}{10}{subsection.2.2}
 \contentsline {section}{\numberline {III}Parte II}{11}{section.3}
 \contentsline {subsection}{\numberline {I}Misure a pressione 650mb}{11}{subsection.3.1}
 \contentsline {subsection}{\numberline {II}Misure a pressione 550mb}{15}{subsection.3.2}
