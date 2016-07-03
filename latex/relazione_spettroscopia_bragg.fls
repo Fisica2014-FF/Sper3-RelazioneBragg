@@ -1,4 +1,4 @@
-PWD /home/francesco/git/Sper3-RelazioneBragg/latex
+PWD /home/enrico/Lab/Sper3/Spettroscopia/Sper3-RelazioneBragg/latex
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
@@ -636,8 +636,9 @@ INPUT ../grafici/risultati/rp2.tex
 INPUT ../grafici/risultati/rp2.tex
 INPUT ../grafici/risultati/rp3.tex
 INPUT ../grafici/risultati/rp3.tex
-INPUT ./sezioni/pres_dati_tabelle.tex
-INPUT ./sezioni/pres_dati_tabelle.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/eulervm/zeusm7.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eufm7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eusm7.tfm
 INPUT ./sezioni/conclusioni.tex
 INPUT ./sezioni/conclusioni.tex
 INPUT ./sezioni/codice.tex
@@ -686,6 +687,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/anonymouspro/AnonymousPro
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/anonymouspro/AnonymousPro-Italic.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/anonymouspro/AnonymousPro-Regular.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb

@@ -12,6 +12,5 @@
 \contentsline {subsection}{\numberline {V}Misure a pressione 400mb}{27}{subsection.3.5}
 \contentsline {subsection}{\numberline {VI}Misure a pressione 380mb}{31}{subsection.3.6}
 \contentsline {subsection}{\numberline {VII}Curve in funzione della pressione}{34}{subsection.3.7}
-\contentsline {section}{\numberline {IV}Tabelle}{43}{section.4}
-\contentsline {section}{\numberline {V}Discussioni e conclusioni}{43}{section.5}
-\contentsline {section}{\numberline {VI}Codice}{44}{section.6}
+\contentsline {section}{\numberline {IV}Discussioni e conclusioni}{43}{section.4}
+\contentsline {section}{\numberline {V}Codice}{44}{section.5}
