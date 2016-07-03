@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.3.5)  3 JUL 2016 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.3.5)  3 JUL 2016 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2135,11 +2135,11 @@ hanged.
 (rerunfilecheck)             Checksum: F8E9C8CD80EBD361578210B0813E5B8A;956.
  ) 
 Here is how much of TeX's memory you used:
- 27701 strings out of 493105
- 500960 string characters out of 6137073
- 785427 words of memory out of 5000000
+ 27699 strings out of 493105
+ 500942 string characters out of 6137073
+ 785525 words of memory out of 5000000
  30013 multiletter control sequences out of 15000+600000
- 168817 words of font info for 126 fonts, out of 8000000 for 9000
+ 168684 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,13n,100p,885b,2128s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/anonymouspro/AnonymousPro-03.e
@@ -2159,7 +2159,7 @@ uler/eurm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/eule
 r/eurm7.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb></usr/share/
 texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public
 /tex-gyre/qplri.pfb>
-Output written on relazione_spettroscopia_bragg.pdf (45 pages, 916932 bytes).
+Output written on relazione_spettroscopia_bragg.pdf (45 pages, 917090 bytes).
 PDF statistics:
  854 PDF objects out of 1000 (max. 8388607)
  661 compressed objects within 7 object streams

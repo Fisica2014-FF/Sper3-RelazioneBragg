@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1467575517 "./relazione_spettroscopia_bragg.tex" "relazione_spettroscopia_bragg.pdf" "relazione_spettroscopia_bragg" 1467575521
+["pdflatex"] 1467577490 "./relazione_spettroscopia_bragg.tex" "relazione_spettroscopia_bragg.pdf" "relazione_spettroscopia_bragg" 1467577493
   "../grafici/risultati/energy_integral.tex" 1467356419 13852 d3b8c17b65b4dfd06f2332d4d65e095a ""
   "../grafici/risultati/misura380.png" 1467356419 18781 5a31aa4c3b2f25229ba7a809ca0d1b3b ""
   "../grafici/risultati/misura380_integral.png" 1467356419 9380 11643a63ab8abd971ae4643f8132339e ""
@@ -322,10 +322,10 @@
   "preamboli_e_stili/pacchetti.tex" 1467317323 9680 acb9eea19e742cf426bca6ebd2a6a6d7 ""
   "preamboli_e_stili/stili_float.tex" 1467317323 1211 f6a5c71387814b2ee57bf66928e44c24 ""
   "preamboli_e_stili/titolo_spettroscopia.tex" 1467575005 802 7d496ca55901946874596b3547c7d632 ""
-  "relazione_spettroscopia_bragg.aux" 1467575521 14560 e187990d34df5ba1f4d5bd2ab1cc6a6a ""
-  "relazione_spettroscopia_bragg.out" 1467575521 956 f8e9c8cd80ebd361578210b0813e5b8a ""
+  "relazione_spettroscopia_bragg.aux" 1467577493 14708 cd8e66ff45baa2b98bfd5bd7a87d5b65 ""
+  "relazione_spettroscopia_bragg.out" 1467577493 956 f8e9c8cd80ebd361578210b0813e5b8a ""
   "relazione_spettroscopia_bragg.tex" 1467575005 2598 9ac54e5c4567569b9a436c6a1bc9adfc ""
-  "relazione_spettroscopia_bragg.toc" 1467575521 1274 b1bc75b80e25a61f9f72fbffb6354df1 ""
+  "relazione_spettroscopia_bragg.toc" 1467577493 1274 b1bc75b80e25a61f9f72fbffb6354df1 ""
   "sezioni/codice.tex" 1467479286 269 712979203667788897cde50d0b3974db ""
   "sezioni/conclusioni.tex" 1467356419 11 716eacf578ed5a2ac2fac8bb5078e00a ""
   "sezioni/descrizione_app_strumentale.tex" 1467575005 79 09fcf78471781c29a31ab2acef72c8c0 ""
@@ -335,7 +335,7 @@
   "sezioni/parti_esperimento/parte_1/prima_misura.tex" 1467561805 3136 e84da65f4b82aa63af1d48e2cf533876 ""
   "sezioni/parti_esperimento/parte_1/risoluzione_energetica.tex" 1467561976 1517 59ea54d18b2a3db5c34f5ecbdaeff809 ""
   "sezioni/parti_esperimento/parte_2.tex" 1467559881 701 7b66744ef74014441cfd97535e80e662 ""
-  "sezioni/parti_esperimento/parte_2/analisi_successiva.tex" 1467575263 1096 5030f925f1373ede389993606cf44948 ""
+  "sezioni/parti_esperimento/parte_2/analisi_successiva.tex" 1467577474 1115 753ab9b9c1728c5a657160e0a8b16766 ""
   "sezioni/parti_esperimento/parte_2/curve_pressione.tex" 1467557954 2490 4ee9c99753bb0c30774ada7211de6d54 ""
   "sezioni/parti_esperimento/parte_2/misura_380.tex" 1467479286 1270 3ed06b2bbd92d62ca54d54c7f6f8a59d ""
   "sezioni/parti_esperimento/parte_2/misura_400.tex" 1467394792 1268 bbaa169d2896e74f7c92f22a02efb334 ""
@@ -355,5 +355,5 @@
   "relazione_spettroscopia_bragg.aux"
   "relazione_spettroscopia_bragg.out"
   "relazione_spettroscopia_bragg.log"
-  "relazione_spettroscopia_bragg.pdf"
   "relazione_spettroscopia_bragg.toc"
+  "relazione_spettroscopia_bragg.pdf"
